@@ -8,7 +8,7 @@ And now, on to official business! On this blog, I hope to share with you our adv
 
 Our first foray into home automation began with Alexa--the AI (artificial intelligence) on the [Amazon Echo](http://www.amazon.com/Amazon-SK705DI-Echo/dp/B00X4WHP5E).
 
-![Amazon Echo](http://ecx.images-amazon.com/images/I/51XeN2UYoyL._SL1000_.jpg)
+<center><img src="/images/amazon_echo.jpg" alt="Amazon Echo" style="width: 400px;"/></center>
 
 When connected to the Internet, Alexa can listen and interpret what you're saying. Though not a cheap purchase, out of the box Alexa can:
 
@@ -27,7 +27,7 @@ Plus a few more things. With some more configuration, Alexa can also:
 
 And much more. Alexa also comes pre-programmed to integrate with other popular, commerically-available internet of things (IoT) things such as the [Philips Hue lightbulbs](http://www.amazon.com/gp/product/B00A4EUUO8?psc=1&redirect=true&ref_=oh_aui_search_detailpage).
 
-![Philips Hue Starter Pack](http://ecx.images-amazon.com/images/I/51c0TJpNkwL._SL1000_.jpg)
+<center><img src="/images/philips_hue.jpg" alt="Philiips Hue Starter Pack" style="width: 400px;"/></center>
 
 Though also not cheap, these lights easily integrate with the Amazon Echo to help you impress your friends by telling Alexa to "turn off the lights". The lights can also be programmed themselves to turn on and off during pre-determined times of day (such as sunrise and sunset) or to welcome you home using geo-fencing.
 

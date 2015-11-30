@@ -8,4 +8,29 @@ And now, on to official business! On this blog, I hope to share with you our adv
 
 Our first foray into home automation began with Alexa--the AI (artificial intelligence) on the [Amazon Echo](http://www.amazon.com/Amazon-SK705DI-Echo/dp/B00X4WHP5E).
 
-![alt test](http://github.com/madjenjen/madjenjen.github.io/raw/master/images/amazon-echo.png)
+![Amazon Echo](http://ecx.images-amazon.com/images/I/51XeN2UYoyL._SL1000_.jpg)
+
+When connected to the Internet, Alexa can listen and interpret what you're saying. Though not a cheap purchase, out of the box Alexa can:
+
+* Tell you the time.
+* Convert units of measurement (which comes in very handy in the kitchen: "Alexa, how many teaspoons in a cup?").
+* Set alarms, reminders, and timers (also handy in the kitchen).
+* Connect via Blue Tooth to other enabled devices so it can act as a pretty dece speaker.
+
+Plus a few more things. With some more configuration, Alexa can also:
+
+* Tell you the weather in your area.
+* Produce and play a flash briefing of news from your favorite news sources.
+* Learn and play your Pandora stations.
+* Learn and play your books on Audible.
+* Learn and play your favorite podcasts.
+
+And much more. Alexa also comes pre-programmed to integrate with other popular, commerically-available internet of things (IoT) things such as the [Philips Hue lightbulbs](http://www.amazon.com/gp/product/B00A4EUUO8?psc=1&redirect=true&ref_=oh_aui_search_detailpage).
+
+![Philips Hue Starter Pack](http://ecx.images-amazon.com/images/I/51c0TJpNkwL._SL1000_.jpg)
+
+Though also not cheap, these lights easily integrate with the Amazon Echo to help you impress your friends by telling Alexa to "turn off the lights". The lights can also be programmed themselves to turn on and off during pre-determined times of day (such as sunrise and sunset) or to welcome you home using geo-fencing.
+
+These two (pricey) purchases got us started with home automation and whet our appetite for more! Maybe they will do the same for you!
+
+\- JMad

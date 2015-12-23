@@ -198,4 +198,4 @@ Our projects are only pretty dece, not super perf, so no pressure. =)
 
 Happy Holidays and see you soon for our first real project post!
 
-\- Jmad
+\- JMad

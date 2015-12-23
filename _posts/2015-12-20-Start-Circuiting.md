@@ -7,7 +7,8 @@ To start building custom home automation projects, we first need to build a tool
 As a side-note on blog building, a friend suggested that we register with [Amazon Associates](https://affiliate-program.amazon.com/ "Amazon Associates"), that way if anyone purchases the items linked on our blog, we will receive a small percentage of the sale. All of the links below are now linked through this program!
 
 ### Physical Toolbox ###
-<table border="1" style="width:100%">
+
+<table style="width:100%">
 	<tr>
 		<th colspan="3">Arduino Prototyping</th>
 	</tr>

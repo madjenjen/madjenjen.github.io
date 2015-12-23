@@ -192,7 +192,7 @@ Some things you _won't_ need to recreate our pretty dece projects include:
 
 * A degree in Electrical Engineering and/or Computer Science
 * Expensive proprietary software--when possible, we'll lean on open source projects
-* Years of experience perfecting the skills listed. 
+* Years of experience perfecting the skills listed 
 
 Our projects are only pretty dece, not super perf, so no pressure. =)
 

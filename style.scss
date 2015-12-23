@@ -114,10 +114,21 @@ table {
 	width: 100%;
 }
 
-th, td {
+th {
+	border: 1px solid #d9d9d9;
+	vertical-align: center;
+	text-align: center;
+	font-weight: bold;
+	font-size: 20px;
+	padding: 5px;
+}
+
+td {
 	border: 1px solid #d9d9d9;
 	vertical-align: center;
 	text-align: left;
+	padding: 5px;
+	font-size: 12px;
 }
 
 tr:nth-child(even) {

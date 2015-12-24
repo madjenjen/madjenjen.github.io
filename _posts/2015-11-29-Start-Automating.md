@@ -1,6 +1,6 @@
 ---
 layout: post
-title: How to Start Automating Your Home (and Building a Blog)
+title: How to Start
 ---
 Ok! Now that we've got the blog up and running, I need to figure out how one actually blogs: what's important, what's not important, what works, and what doesn't work. [This post](http://www.theminimalists.com/blog) on the Minimalist blog was very useful to get us off the ground. I will add my thoughts on our niche, value, and ideal readers to the [About](http://madjenjen.github.io/about) page soon. 
 

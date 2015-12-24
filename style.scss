@@ -36,7 +36,7 @@ h1, h2, h3, h4, h5, h6 {
   font-weight: bold;
 
   line-height: 1.7;
-  margin: 1em 0 15px;
+  margin: 1em 0 0;
   padding: 0;
 
   @include mobile {
@@ -180,13 +180,14 @@ td {
 //
 
 .wrapper-masthead {
-  margin-bottom: 50px;
+  margin-bottom: 60px;
   background: $blue;
   border-bottom: 10px solid $lightGray;
+  padding-top: 0;
 }
 
 .masthead {
-  padding: 10px 0;
+  padding: 5px 0;
 
 
   @include mobile {
@@ -195,10 +196,18 @@ td {
 }
 
 .site-avatar {
-  float: left;
-  width: 70px;
-  height: 70px;
-  margin-right: 15px;
+  width: 150px;
+  height: 150px;
+  margin: 0 auto;
+  border-radius: 100px;
+  border: 8px solid $lightGray;
+  background: $white;
+  text-align: center;
+  display: block;
+  position: absolute;
+  left: 0;
+  right: 0;
+  top: 120px;
 
   @include mobile {
     float: none;
@@ -208,40 +217,49 @@ td {
 
   img {
     border-radius: 5px;
+  	height: 100%;
+  	padding: 10px;
   }
 }
 
-.site-info {
-  float: left;
+.site-name {
+  margin: 0 auto;
+  left: 0;
+  right: 0;
+  text-align: center;
+  color: $white;
+  cursor: pointer;
+  font-family: $amatic;
+  font-size: 66px;
+
+  a {
+	color: $white;
+  	&:hover, &:active {
+  		color: $white;
+  	}
+  }
 
   @include mobile {
+    margin: 3px 0;
     float: none;
     display: block;
     margin: 0 auto;
   }
 }
 
-.site-name {
+.site-description {
   margin: 0;
   color: $white;
-  cursor: pointer;
-  font-family: $pompiere;
-  font-size: 28px;
-  a {
-	color: $white;
-	&:hover, &:active {
-		color: $white;
-	}
-  }
-}
-
-.site-description {
-  margin: -5px 0 0 0;
-  color: $white;
-  font-size: 16px;
+  font-size: 14px;
+  width: 200px;
+  text-align: right;
+  float: right;
 
   @include mobile {
     margin: 3px 0;
+    float: none;
+    display: none;
+    margin: 0 auto;
   }
 }
 
@@ -253,7 +271,7 @@ nav {
   color: $white;
 
   @include mobile {
-    float: none;
+    float: left;
     margin-top: 9px;
     display: block;
     font-size: 16px;
@@ -263,7 +281,7 @@ nav {
     margin-left: 20px;
     color: $white;
     text-align: left;
-    font-weight: 300;
+    font-weight: bold;
     letter-spacing: 1px;
 
     @include mobile {
@@ -271,8 +289,7 @@ nav {
       color: $blue;
     }
 	&:hover {
-		text-decoration: underline;
-		color: $white;
+		color: $yellow;
 	}
   }
 }
@@ -283,7 +300,16 @@ nav {
 
 .posts > .post {
   padding-bottom: 2em;
-  border-bottom: 1px solid $lightGray;
+}
+
+.post::after {
+  content: "";
+  display: block;
+  background-image: url(/images/post_separator.png);
+  background-repeat: no-repeat;
+  height: 15px;
+  width: 120px;
+  margin: 0 auto;
 }
 
 .posts > .post:last-child {

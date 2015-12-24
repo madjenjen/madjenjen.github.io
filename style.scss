@@ -216,7 +216,6 @@ td {
   top: 120px;
 
   @include mobile {
-    float: none;
     display: block;
     margin: 0 auto;
   }
@@ -252,6 +251,7 @@ td {
     float: none;
     display: block;
     margin: 0 auto;
+    line-height: 1.7;
   }
 }
 

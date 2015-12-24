@@ -1,8 +1,8 @@
 ---
 layout: post
-title: Build Your Toolbox
+title: Build a Toolbox
 ---
-To start building custom home automation projects, we first need to build a toolbox of both items and skills. The list I propose below is a recommendation on how to get started. Your toolbox will likely end up being slightly different and will evolve over time. For our future projects, I will assume that these basic items are in your toolbox and that we won't need to purchase/learn them anew. 
+To start building custom home automation projects, you'll first need to build a toolbox of both items and skills. The list I propose below is a recommendation on how to get started. Your toolbox will likely end up being slightly different and will evolve over time. For our future projects, I will assume that these basic items are in your toolbox and that we won't need to purchase/learn them anew.
 
 As a side-note on blog building, a friend suggested that we register with [Amazon Associates](https://affiliate-program.amazon.com/ "Amazon Associates"), that way if anyone purchases the items linked on our blog, we will receive a small percentage of the sale. All of the links below are now linked through this program!
 
@@ -30,18 +30,18 @@ As a side-note on blog building, a friend suggested that we register with [Amazo
 
 	<tr>
 		<td><a rel="nofollow" href=https://www.arduino.cc/en/Main/Software>Arduino Software</a></td>
-		
+
 		<td><a rel="nofollow" href=https://www.arduino.cc/en/Main/Software><img border="0" src="/images/Arduino_Logo.png"></a><img src="/images/Arduino_Logo.png" width="1" height="1" border="0" alt="" style="border:none !important; margin:0px !important;" /></td>
-		
+
 		<td>Download the Arduino software to start creating sketches in C/C++.</td>
 	</tr>
 
 	<tr>
 		<td><a rel="nofollow" href="http://www.amazon.com/gp/product/B00KHP6EIK/ref=as_li_tl?ie=UTF8&camp=1789&creative=9325&creativeASIN=B00KHP6EIK&linkCode=as2&tag=predec-20&linkId=373ZXL2NC3XP4SKV">Multimeter</a><img src="http://ir-na.amazon-adsystem.com/e/ir?t=predec-20&l=as2&o=1&a=B00KHP6EIK" width="1" height="1" border="0" alt="" style="border:none !important; margin:0px !important;" /></td>
-		
+
 		<td><a rel="nofollow" href="http://www.amazon.com/gp/product/B00KHP6EIK/ref=as_li_tl?ie=UTF8&camp=1789&creative=9325&creativeASIN=B00KHP6EIK&linkCode=as2&tag=predec-20&linkId=MIW5RGRWRKTTVLJY"><img border="0" src="http://ws-na.amazon-adsystem.com/widgets/q?_encoding=UTF8&ASIN=B00KHP6EIK&Format=_SL250_&ID=AsinImage&MarketPlace=US&ServiceVersion=20070822&WS=1&tag=predec-20" ></a><img src="http://ir-na.amazon-adsystem.com/e/ir?t=predec-20&l=as2&o=1&a=B00KHP6EIK" width="1" height="1" border="0" alt="" style="border:none !important; margin:0px !important;" /></td>
 
-		<td>The Arduino and some of the components we will use for our projects are pretty particular about the types and magnitutde of current and voltage they can handle, so this tool will come in handy to make sure we don't fry too many things. We will fry some things though. We can be sure of that.</td>
+		<td>The Arduino and some of the components we will use are pretty particular about the types and magnitude of current and voltage they can handle, so this tool will come in handy to make sure we don't fry too many things. We will fry some things though. You can be sure of that.</td>
 	</tr>
 
 	<tr>
@@ -61,7 +61,7 @@ As a side-note on blog building, a friend suggested that we register with [Amazo
 
 		<td><a rel="nofollow" href="http://www.amazon.com/gp/product/B00068IJNQ/ref=as_li_tl?ie=UTF8&camp=1789&creative=9325&creativeASIN=B00068IJNQ&linkCode=as2&tag=predec-20&linkId=BHS6XYLHTPUPWEBH"><img border="0" src="http://ws-na.amazon-adsystem.com/widgets/q?_encoding=UTF8&ASIN=B00068IJNQ&Format=_SL250_&ID=AsinImage&MarketPlace=US&ServiceVersion=20070822&WS=1&tag=predec-20" ></a><img src="http://ir-na.amazon-adsystem.com/e/ir?t=predec-20&l=as2&o=1&a=B00068IJNQ" width="1" height="1" border="0" alt="" style="border:none !important; margin:0px !important;" /></td>
 
-		<td>You'll need solder to do the soldering.</td>
+		<td>We'll need solder to do the soldering.</td>
 	</tr>
 
 	<tr>
@@ -86,7 +86,7 @@ As a side-note on blog building, a friend suggested that we register with [Amazo
 		<td><a rel="nofollow" href="http://www.amazon.com/gp/product/B00B4ZRPEY/ref=as_li_tl?ie=UTF8&camp=1789&creative=9325&creativeASIN=B00B4ZRPEY&linkCode=as2&tag=predec-20&linkId=ZT564OTMJKZKWE4V"><img border="0" src="http://ws-na.amazon-adsystem.com/widgets/q?_encoding=UTF8&ASIN=B00B4ZRPEY&Format=_SL250_&ID=AsinImage&MarketPlace=US&ServiceVersion=20070822&WS=1&tag=predec-20" ></a><img src="http://ir-na.amazon-adsystem.com/e/ir?t=predec-20&l=as2&o=1&a=B00B4ZRPEY" width="1" height="1" border="0" alt="" style="border:none !important; margin:0px !important;" /></td>
 
 		<td>We'll use these wires to create custom circuit shields for the Arduino and more.</td>
-	</tr>	
+	</tr>
 
 	<tr>
 		<td><a rel="nofollow" href="http://www.amazon.com/gp/product/B017V3ELN0/ref=as_li_tl?ie=UTF8&camp=1789&creative=9325&creativeASIN=B017V3ELN0&linkCode=as2&tag=predec-20&linkId=BC7ZJDRYOLV5AAPE">Needle Nose Pliers</a><img src="http://ir-na.amazon-adsystem.com/e/ir?t=predec-20&l=as2&o=1&a=B017V3ELN0" width="1" height="1" border="0" alt="" style="border:none !important; margin:0px !important;" /></td>
@@ -106,7 +106,7 @@ As a side-note on blog building, a friend suggested that we register with [Amazo
 
 </table>
 
-Now that we've got our Physical Toolbox squared away, there are also a few pieces of knowledge and skills that I will assume you've got as we go through these projects. If you don't currently have these items under your belt, I'll provide a few links below for good places to start honing these skills.
+Now that we've got our Physical Toolbox squared away, there are also a few pieces of knowledge and skills that we will assume you've got as we go through these projects. If you don't currently have these items under your belt, we'll provide a few links below for good places to start honing these skills.
 
 ### Mental Toolbox ###
 <table style="width:100%">
@@ -165,7 +165,7 @@ Now that we've got our Physical Toolbox squared away, there are also a few piece
 	<tr>
 		<td><b>Soldering</b></td>
 
-		<td>I won't pretend to be a soldering master, but it is a skill that we will need to practice and improve with time as we build more projects.</td>
+		<td>We will get a chance to practice and improve our soldering skills with time as we build more projects.</td>
 
 		<td>
 			<a href="http://www.aaroncake.net/electronics/solder.htm">Soldering Basics Instructions</a>
@@ -177,7 +177,7 @@ Now that we've got our Physical Toolbox squared away, there are also a few piece
 	<tr>
 		<td><b>Basic Code Debugging</b></td>
 
-		<td>Though we'll try to highlight common pitfalls and issues that may arise during your project build in this blog, you may still run into problems particular to your setup and will then get the chance to practice the essential/infuriating skill of debugging! You lucky dog, you.</td>
+		<td>Though we'll try to highlight common pitfalls and issues that may arise during your project build in this blog, you may still run into problems particular to your setup and will then get the chance to practice the essential/exasperating skill of debugging! You lucky dog, you.</td>
 
 		<td>
 			There's really no one-size-fits-all method here, but <a href="http://lmgtfy.com/">Google is your friend</a> when it comes to debugging.
@@ -190,9 +190,9 @@ Now that we've got our Physical Toolbox squared away, there are also a few piece
 
 Some things you _won't_ need to recreate our pretty dece projects include:
 
-* A degree in Electrical Engineering and/or Computer Science
+* A degree in Electrical Engineering and/or Computer Science (neither of us has them)
 * Expensive proprietary software--when possible, we'll lean on open source projects
-* Years of experience perfecting the skills listed 
+* Years of experience perfecting the skills listed
 
 Our projects are only pretty dece, not super perf, so no pressure. =)
 

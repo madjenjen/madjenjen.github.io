@@ -210,7 +210,6 @@ td {
   top: 120px;
 
   @include mobile {
-    show: hide;
     float: none;
     display: block;
     margin: 0 auto;
@@ -232,6 +231,8 @@ td {
   cursor: pointer;
   font-family: $amatic;
   font-size: 66px;
+  letter-spacing: -4px;
+  margin-bottom: -30px;
 
   a {
 	color: $white;

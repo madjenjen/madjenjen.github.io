@@ -46,11 +46,12 @@
     </div>
 
     {% include analytics.html %}
-    <script type="text/javascript" src="http://ajax.googleapis.com/ajax/libs/jquery/1.7.1/jquery.min.js"></script>
-		<script type="text/javascript" src="/js/jquery.arctext.js"></script>
-    <script type="text/javascript">
+    <script src="//ajax.googleapis.com/ajax/libs/jquery/1.9.1/jquery.min.js"></script>
+    <script src="/js/plugins.js"></script>
+    <script src="/js/circletype.min.js"></script>
+    <script>
       $(function() {
-        $('.site-name').arctext({radius: 400});
+          $('.site-name').circleType({radius: 200});
       });
     </script>
   </body>

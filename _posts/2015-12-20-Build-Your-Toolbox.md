@@ -190,7 +190,7 @@ Now that we've got our Physical Toolbox squared away, there are also a few piece
 
 </table>
 
-Some things you _won't_ need to recreate our pretty dece projects include:
+Some things you **won't** need to recreate our pretty dece projects include:
 
 * A degree in Electrical Engineering and/or Computer Science (neither of us has them)
 * Expensive proprietary software--when possible, we'll lean on open source projects

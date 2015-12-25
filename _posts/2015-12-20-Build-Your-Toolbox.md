@@ -3,7 +3,9 @@ layout: post
 title: Build a Toolbox
 ---
 To start building custom home automation projects, you'll first need to build a toolbox of both items and skills. The list I propose below is a recommendation on how to get started. Your toolbox will likely end up being slightly different and will evolve over time. For our future projects, I will assume that these basic items are in your toolbox and that we won't need to purchase/learn them anew.
+
 <!--more-->
+
 As a side-note on blog building, a friend suggested that we register with [Amazon Associates](https://affiliate-program.amazon.com/ "Amazon Associates"), that way if anyone purchases the items linked on our blog, we will receive a small percentage of the sale. All of the links below are now linked through this program!
 
 ### Physical Toolbox ###

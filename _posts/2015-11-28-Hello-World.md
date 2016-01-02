@@ -1,6 +1,7 @@
 ---
 layout: post
 title: The Pretty Dece Blog is Born!
+image: images/Colorful_Logo.png
 ---
 Right now I'm working on getting this blog up and running so we can post about some projects that turned out pretty dece!
 

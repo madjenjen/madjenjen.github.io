@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Automatic Blind Openers
+title: Echo Blind Openers
 ---
 Our first custom project was to automate the opening and closing of our living room blinds. Yes, it's not that hard to get up and rotate the little rod on each window for 8 seconds, but it's waaaaay cooler to just tell Alexa to do it for you (check out <a href="http://pretty-dece.com/Start-Automating/" target="\_blank">a previous post</a> for an introduction to Alexa).
 

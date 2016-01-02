@@ -1,7 +1,7 @@
 ---
 layout: post
 title: How to Start Automating
-image: http://ws-na.amazon-adsystem.com/widgets/q?_encoding=UTF8&ASIN=B00X4WHP5E&Format=_SL250_&ID=AsinImage&MarketPlace=US&ServiceVersion=20070822&WS=1&tag=predec-20
+image: http://ecx.images-amazon.com/images/I/41%2Bjw%2Bk87yL._SL250_.jpg
 ---
 Ok! Now that we've got the blog up and running, I need to figure out how one actually blogs: what's important, what's not important, what works, and what doesn't work. <a href="http://www.theminimalists.com/blog" target="\_blank">This post</a> on the Minimalist blog was very useful to get us off the ground. I will add my thoughts on our niche, value, and ideal readers to the <a href="http://madjenjen.github.io/about" target="\_blank">About</a> page soon.
 

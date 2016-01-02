@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Echo Blind Openers
-image: /images/Echo Blinds_bb.png
+image: /images/Echo-Blinds_bb.png
 ---
 Our first custom project was to automate the opening and closing of our living room blinds. Yes, it's not that hard to get up and rotate the little rod on each window for 8 seconds, but it's waaaaay cooler to just tell Alexa to do it for you (check out <a href="http://pretty-dece.com/Start-Automating/" target="\_blank">a previous post</a> for an introduction to Alexa).
 
@@ -89,7 +89,7 @@ All right, now that we've got everything, we'll first want to build a prototype 
 
 To test out the motors, plug them into your breadboard and connect to the Arduino as shown below. On our motors, the <b style="color: red;">red wire</b> is power, **black** is ground, and <b style="color: #f7da26;">white</b> (on our diagrams I'll show them as yellow) is the switch that tells the motors to turn on and off. Note that our servos will need 5V to run. Make sure to test one servo motor at a time to make sure each works as intended.
 
-<center><img src="/images/Servo Motor Testing_bb.png" alt="Servo motor testing with bread board setup"></img></center>
+<center><img src="/images/Servo-Motor-Testing_bb.png" alt="Servo motor testing with bread board setup"></img></center>
 
 The <a href="http://makezine.com/projects/mini-blind-minder/" target="\_blank">Mini Blind Minder</a> project conveniently has a pre-made script to calibrate your motors. Click through to step **"6. Calibrate the servo."** in the project to download the .zip file with the Arduino sketches and run them on each motor.
 
@@ -111,7 +111,7 @@ Next, we'll want to test out the ESP8266. Unfortunately, the way it's built out 
 
 Now we'll need to learn a little bit about the ESP8266. This post titled <a href="http://shin-ajaran.blogspot.sg/2014/12/noobs-guide-to-esp8266-with-arduino.html" target="\_blank">noob's guide to ESP8266 with Arduino Mega 2560 or Uno</a> is very comprehensive and even provides some example scripts to run to make sure your chip is functioning properly. Here's how we hooked up our modified chip: the <b style="color: green">green wires</b> are power, **black** is ground, and  <b style="color: blue">blue</b> are the communication wires (you won't have the  <b style="color: gray">gray wires</b> once you've modified the chip--it'll just plug in to the other side of the board). **IMPORTANT NOTE:** The ESP8266 chip requires 3.3V of power, **NOT** 5V, so we'll need to make sure to make that distinction when we put both the motors and the chip together.
 
-<center><img src="/images/ESP8266 Testing_bb.png" alt="Servo motor testing with bread board setup"></img></center>
+<center><img src="/images/ESP8266-Testing_bb.png" alt="ESP8266 testing with bread board setup"></img></center>
 
 <div class="circular" style="padding: 5px 10px 5px 10px; float: left; margin: 0 10px 10px 0;"">
 	<b style="color: #fff;">4</b>
@@ -127,11 +127,11 @@ All right! Now that each component is working properly, let's put it together! N
 * There is a switch on the 3.3V power so that we can turn it on and off at will
 * There are two servo motors, one hooked up to pin 8 and the other to pin 9
 
-<center><img src="/images/Echo Blinds_bb.png" alt="Echo Blinds breadboard prototype diagram"></img></center>
+<center><img src="/images/Echo-Blinds_bb.png" alt="Echo Blinds breadboard prototype diagram"></img></center>
 
 Here is a schematic without the breadboard to show how everything is connected. I used the Arduino Uno for this diagram only because it's slightly smaller. The Mega has all of the same pins, plus more, so it doesn't matter for the schematic.
 
-<center><img src="/images/Echo Blinds_schem.png" alt="Echo Blinds schematic"></img></center>
+<center><img src="/images/Echo-Blinds_schem.png" alt="Echo Blinds schematic"></img></center>
 
 And here is a picture of our actual setup. Don't pay attention to the colors of the wires. They don't correspond to the diagrams.
 

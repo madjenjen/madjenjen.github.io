@@ -147,6 +147,7 @@ td {
   border-radius: 50%;
   -webkit-border-radius: 50%;
   -moz-border-radius: 50%;
+  background: $green;
 }
 
 // Fixes images in popup boxes from Google Translate
@@ -335,8 +336,6 @@ nav {
     margin: 1.8em .8em;
     border-left: 2px solid $gray;
     padding: 0.1em 1em;
-    color: $gray;
-    font-size: 22px;
     font-style: italic;
   }
 

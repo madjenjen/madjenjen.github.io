@@ -161,6 +161,21 @@ td {
   }
 }
 
+.headshot {
+  width: 150px;
+  float:left;
+  margin: -30px 20px 10px 0;
+}
+
+.about-us {
+  clear: both;
+  margin-top: 40px;
+
+  p {
+    display: table-cell;
+  }
+}
+
 .post-excerpt-image {
   float: left;
   display: block;

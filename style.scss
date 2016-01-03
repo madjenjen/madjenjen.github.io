@@ -149,6 +149,17 @@ td {
   -moz-border-radius: 50%;
 }
 
+.numbers {
+  padding: 5px 10px 5px 10px;
+  float: left;
+  margin: 0 10px 10px 0;
+  background: $green;
+
+  b {
+    color: #fff;
+  }
+}
+
 .post-excerpt-image {
   float: left;
   display: block;

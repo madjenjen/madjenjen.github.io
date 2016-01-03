@@ -12,6 +12,10 @@ layout: default
         {{ post.date | date: "%B %e, %Y" }}
       </div>
 
+      <div class="post-excerpt-image">
+        <img src="{{ post.image }}" alt="Post picture"></img>
+      </div>
+
       <div class="entry">
         {{ post.excerpt }}
       </div>

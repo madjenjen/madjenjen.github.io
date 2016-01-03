@@ -28,7 +28,7 @@ To start, here's the list of parts we used aside from what's already in our <a h
 		</td>
 
 		<td>
-			<a rel="nofollow" href="http://www.amazon.com/gp/product/B00O34AGSU/ref=as_li_tl?ie=UTF8&camp=1789&creative=9325&creativeASIN=B00O34AGSU&linkCode=as2&tag=predec-20&linkId=IXJQFSMSWMDORJPS" target="\_blank"><img border="0" src="http://ws-na.amazon-adsystem.com/widgets/q?_encoding=UTF8&ASIN=B00O34AGSU&Format=_SL250_&ID=AsinImage&MarketPlace=US&ServiceVersion=20070822&WS=1&tag=predec-20" ></a><img src="http://ir-na.amazon-adsystem.com/e/ir?t=predec-20&l=as2&o=1&a=B00O34AGSU" width="1" height="1" border="0" alt="" style="border:none !important; margin:0px !important;" />
+			<a rel="nofollow" href="http://www.amazon.com/gp/product/B00O34AGSU/ref=as_li_tl?ie=UTF8&camp=1789&creative=9325&creativeASIN=B00O34AGSU&linkCode=as2&tag=predec-20&linkId=IXJQFSMSWMDORJPS" target="\_blank"><img border="0" src="http://ws-na.amazon-adsystem.com/widgets/q?_encoding=UTF8&ASIN=B00O34AGSU&Format=_SL250_&ID=AsinImage&MarketPlace=US&ServiceVersion=20070822&WS=1&tag=predec-20" ></a><img src="http://ir-na.amazon-adsystem.com/e/ir?t=predec-20&l=as2&o=1&a=B00O34AGSU" width="1" height="1" border="0" alt="ESP8266 Serial Wifi Wireless Transceiver Module" style="border:none !important; margin:0px !important;" />
 		</td>
 
 		<td>
@@ -42,7 +42,7 @@ To start, here's the list of parts we used aside from what's already in our <a h
 		</td>
 
 		<td>
-			<a rel="nofollow" href="http://www.amazon.com/gp/product/B00B886KSE/ref=as_li_tl?ie=UTF8&camp=1789&creative=9325&creativeASIN=B00B886KSE&linkCode=as2&tag=predec-20&linkId=KUVTQWAHPLO4X3MR" target="\_blank"><img border="0" src="http://ws-na.amazon-adsystem.com/widgets/q?_encoding=UTF8&ASIN=B00B886KSE&Format=_SL250_&ID=AsinImage&MarketPlace=US&ServiceVersion=20070822&WS=1&tag=predec-20" ></a><img src="http://ir-na.amazon-adsystem.com/e/ir?t=predec-20&l=as2&o=1&a=B00B886KSE" width="1" height="1" border="0" alt="" style="border:none !important; margin:0px !important;" />
+			<a rel="nofollow" href="http://www.amazon.com/gp/product/B00B886KSE/ref=as_li_tl?ie=UTF8&camp=1789&creative=9325&creativeASIN=B00B886KSE&linkCode=as2&tag=predec-20&linkId=KUVTQWAHPLO4X3MR" target="\_blank"><img border="0" src="http://ws-na.amazon-adsystem.com/widgets/q?_encoding=UTF8&ASIN=B00B886KSE&Format=_SL250_&ID=AsinImage&MarketPlace=US&ServiceVersion=20070822&WS=1&tag=predec-20" ></a><img src="http://ir-na.amazon-adsystem.com/e/ir?t=predec-20&l=as2&o=1&a=B00B886KSE" width="1" height="1" border="0" alt="Continuous Rotation Servo" style="border:none !important; margin:0px !important;" />
 		</td>
 
 		<td>
@@ -56,7 +56,7 @@ To start, here's the list of parts we used aside from what's already in our <a h
 		</td>
 
 		<td>
-			<a rel="nofollow" href="http://www.amazon.com/gp/product/B008LT3O14/ref=as_li_tl?ie=UTF8&camp=1789&creative=9325&creativeASIN=B008LT3O14&linkCode=as2&tag=predec-20&linkId=2UX6YI37FN442T6K" target="\_blank"><img border="0" src="http://ws-na.amazon-adsystem.com/widgets/q?_encoding=UTF8&ASIN=B008LT3O14&Format=_SL250_&ID=AsinImage&MarketPlace=US&ServiceVersion=20070822&WS=1&tag=predec-20" ></a><img src="http://ir-na.amazon-adsystem.com/e/ir?t=predec-20&l=as2&o=1&a=B008LT3O14" width="1" height="1" border="0" alt="" style="border:none !important; margin:0px !important;" />
+			<a rel="nofollow" href="http://www.amazon.com/gp/product/B008LT3O14/ref=as_li_tl?ie=UTF8&camp=1789&creative=9325&creativeASIN=B008LT3O14&linkCode=as2&tag=predec-20&linkId=2UX6YI37FN442T6K" target="\_blank"><img border="0" src="http://ws-na.amazon-adsystem.com/widgets/q?_encoding=UTF8&ASIN=B008LT3O14&Format=_SL250_&ID=AsinImage&MarketPlace=US&ServiceVersion=20070822&WS=1&tag=predec-20" ></a><img src="http://ir-na.amazon-adsystem.com/e/ir?t=predec-20&l=as2&o=1&a=B008LT3O14" width="1" height="1" border="0" alt="On/Off Switches" style="border:none !important; margin:0px !important;" />
 		</td>
 
 		<td>
@@ -70,7 +70,7 @@ To start, here's the list of parts we used aside from what's already in our <a h
 		</td>
 
 		<td>
-			<a rel="nofollow" href="http://www.amazon.com/gp/product/B00CP1QLSC/ref=as_li_tl?ie=UTF8&camp=1789&creative=9325&creativeASIN=B00CP1QLSC&linkCode=as2&tag=predec-20&linkId=DSRCXPQD5MLLJZL3" target="\_blank"><img border="0" src="http://ws-na.amazon-adsystem.com/widgets/q?_encoding=UTF8&ASIN=B00CP1QLSC&Format=_SL250_&ID=AsinImage&MarketPlace=US&ServiceVersion=20070822&WS=1&tag=predec-20" ></a><img src="http://ir-na.amazon-adsystem.com/e/ir?t=predec-20&l=as2&o=1&a=B00CP1QLSC" width="1" height="1" border="0" alt="" style="border:none !important; margin:0px !important;" />
+			<a rel="nofollow" href="http://www.amazon.com/gp/product/B00CP1QLSC/ref=as_li_tl?ie=UTF8&camp=1789&creative=9325&creativeASIN=B00CP1QLSC&linkCode=as2&tag=predec-20&linkId=DSRCXPQD5MLLJZL3" target="\_blank"><img border="0" src="http://ws-na.amazon-adsystem.com/widgets/q?_encoding=UTF8&ASIN=B00CP1QLSC&Format=_SL250_&ID=AsinImage&MarketPlace=US&ServiceVersion=20070822&WS=1&tag=predec-20" ></a><img src="http://ir-na.amazon-adsystem.com/e/ir?t=predec-20&l=as2&o=1&a=B00CP1QLSC" width="1" height="1" border="0" alt="9V 1A Power Adapter" style="border:none !important; margin:0px !important;" />
 		</td>
 
 		<td>

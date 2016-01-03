@@ -93,7 +93,7 @@ To test out the motors, plug them into your breadboard and connect to the Arduin
 
 The <a href="http://makezine.com/projects/mini-blind-minder/" target="\_blank">Mini Blind Minder</a> project conveniently has a pre-made script to calibrate your motors. Click through to step **"6. Calibrate the servo."** in the project to download the .zip file with the Arduino sketches and run them on each motor.
 
->Blog building side-note: there's a super cool, open-source package called <a href="http://fritzing.org/home/" target="\_blank">fritzing</a> that allows you to create fancy-looking schematics and diagrams--that's what I'm using here to show you our setups.
+>Blog building side-note: there's a super cool, open-source package called <a href="http://fritzing.org/home/" target="\_blank">fritzing</a> that allows you to create fancy-looking schematics and diagrams--that's what I'm using here to show you >our setups.
 
 <div class="circular numbers">
 	<b>2</b>
@@ -142,7 +142,7 @@ And here is a picture of our actual setup. Don't pay attention to the colors of 
 </div>
 
 ### Run the code ###
-Finally, we'll need to run the Arduino code to bring the project to life. We're storing all of our code on Github, so if there are any updates since this post, you can <a href="https://github.com/TheConnMan/EchoBlinds" target="\_blank">find the latest here</a>.
+Finally, we'll need to run the Arduino code to bring the project to life. We're storing all of our code on Github, so if there are any updates since this post, you can <a href="https://github.com/madjenjen/EchoBlinds" target="\_blank">find the latest here</a>.
 
 Some common problems you may run into when running the code, and solutions:
 

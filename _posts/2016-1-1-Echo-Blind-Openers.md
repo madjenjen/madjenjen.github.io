@@ -154,7 +154,7 @@ Some common problems you may run into when running the code, and solutions:
 * To see the printed lines, once you run your sketch, click on "Tools" and then "Serial Monitor" or Ctrl+Shift+M. If anything doesn't work, my approach is usually to add a bunch of Serial.println lines throughout the code to see where things break.
 
 For convenience, here's the sketch as well:
-<script src="https://gist.github.com/madjenjen/ebacb9cd350ddc5b0c39.js"></script>
+<script src="https://gist.github.com/madjenjen/ebacb9cd350ddc5b0c39.js?file=echoblinds.ino"></script>
 
 Next week on Pretty Dece, TheConnMan will show us how to start talking to Alexa!
 

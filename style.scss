@@ -145,6 +145,12 @@ td {
 	font-size: 14px;
 }
 
+code {
+  background: $lighterGray;
+  font-size: .8em;
+  padding: .3em .4em;
+}
+
 .circular {
   border-radius: 50%;
   -webkit-border-radius: 50%;

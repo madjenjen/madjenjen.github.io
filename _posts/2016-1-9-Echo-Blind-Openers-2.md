@@ -59,7 +59,7 @@ To start, let's take a look at the tools we'll put to use for this project:
 
 	<tr>
 		<td>
-			Custom Middleware
+			<b>Custom Middleware</b>
 		</td>
 
 		<td>

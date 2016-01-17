@@ -16,7 +16,7 @@ I'll walk through the Arduino code step by step to show you where you can make a
 
 As I talk through these steps, roll-over the text with your mouse and you'll see the specified lines of code light up in the snippets below (nifty new feature, huh?).
 
-These first two lines attach the servo motors to the Arduino pins responsible for their triggering. In our case, we attached one to Pin 8 and one to Pin 9. If you attached them to different pins, just <b>change the numbers</b> in the code below.
+These first two lines attach the servo motors to the Arduino pins responsible for their triggering. In our case, we attached one to Pin 8 and one to Pin 9. If you attached them to different pins, just <b class="highlight-trigger" highlight-file="file-echoblinds-2-ino" highlight-lines="3">change the numbers</b> in the code below.
 
 <script src="https://gist.github.com/madjenjen/ebacb9cd350ddc5b0c39.js?file=echoblinds-2.ino"></script>
 

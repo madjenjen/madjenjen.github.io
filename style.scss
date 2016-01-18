@@ -145,6 +145,12 @@ td {
 	font-size: 14px;
 }
 
+code {
+  background: $lighterGray;
+  font-size: .8em;
+  padding: .3em .4em;
+}
+
 .circular {
   border-radius: 50%;
   -webkit-border-radius: 50%;
@@ -153,6 +159,9 @@ td {
 
 .numbers {
   padding: 5px 10px 5px 10px;
+  width: 29px;
+  height: 29px;
+  text-align: center;
   float: left;
   margin: 1em 10px 10px 0;
   background: $green;
@@ -160,6 +169,11 @@ td {
   b {
     color: $white;
   }
+}
+
+.gist-highlight {
+  background: $yellow;
+  padding: .3em .4em;
 }
 
 .headshot {

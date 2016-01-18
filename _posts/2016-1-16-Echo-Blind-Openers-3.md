@@ -82,7 +82,7 @@ Finally, let's find the Echo Blinds project a permanent home! For our purposes, 
 <table>
 	<tr>
 		<td>
-			<img src="/images/Echo-Blinds/Shield_Top.jpg" alt="Shield top view"></img>
+			<img src="/images/Echo-Blinds/Shield_Top.JPG" alt="Shield top view"></img>
 		</td>
 		<td>
 			<img src="/images/Echo-Blinds/Mantle_Setup.JPG" alt="Mantle setup"></img>

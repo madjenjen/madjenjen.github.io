@@ -68,7 +68,7 @@ The easiest way to do this is to have the <a rel="nofollow" href="http://www.ama
 ### Solder the Shield ###
 Now that you've got the board prepared, it's time to solder! Make sure you find a well-ventilated space and that your hair is tied back (some bangs were harmed in the making of this project). Here's our al fresco soldering setup.
 
-<img src="/images/Bonsai-Water/Soldering_Setup.jpg" alt="soldering setup on balcony"></img>
+<img src="/images/Echo-Blinds/Soldering_Setup.jpg" alt="soldering setup on balcony"></img>
 
 When soldering, follow the schematic shown in <a href="http://pretty-dece.com/Echo-Blind-Openers/" target="\_blank">Part 1</a>.
 

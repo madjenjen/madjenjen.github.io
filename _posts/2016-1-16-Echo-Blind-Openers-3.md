@@ -85,7 +85,7 @@ Finally, let's find the Echo Blinds project a permanent home! For our purposes, 
 			<img src="/images/Echo-Blinds/Shield_Top.jpg" alt="Shield top view"></img>
 		</td>
 		<td>
-			<img src="/images/Echo-Blinds/Mantle_Setup.jpg" alt="Mantle setup"></img>
+			<img src="/images/Echo-Blinds/Mantle_Setup.JPG" alt="Mantle setup"></img>
 		</td>
 	</tr>
 
@@ -94,13 +94,13 @@ Finally, let's find the Echo Blinds project a permanent home! For our purposes, 
 			<img src="/images/Echo-Blinds/Motor_Turning.gif" alt="Motor turning animation"></img>
 		</td>
 		<td>
-			<img src="/images/Echo-Blinds/Shield_Side.jpg" alt="Shield side view"></img>
+			<img src="/images/Echo-Blinds/Shield_Side.JPG" alt="Shield side view"></img>
 		</td>
 	</tr>
 
 	<tr>
 		<td>
-			<img src="/images/Echo-Blinds/Motor_Closeup.jpg" alt="motor close-up view"></img>
+			<img src="/images/Echo-Blinds/Motor_Closeup.JPG" alt="motor close-up view"></img>
 		</td>
 	</tr>
 </table>

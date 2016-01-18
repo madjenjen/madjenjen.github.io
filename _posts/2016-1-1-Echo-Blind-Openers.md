@@ -81,7 +81,7 @@ To start, here's the list of parts we used aside from what's already in our <a h
 
 All right, now that we've got everything, we'll first want to build a prototype of our design to make sure everything works. The easiest way to prototype for the Arduino is using a breadboard. The breadboard makes it easy to switch things up without having to take everything apart. We'll test each module by itself and then put things together once we're sure each component works individually.
 
-<div class="circular numbers">
+<div class="numbers">
 	<b>1</b>
 </div>
 
@@ -95,7 +95,7 @@ The <a href="http://makezine.com/projects/mini-blind-minder/" target="\_blank">M
 
 >Blog building side-note: there's a super cool, open-source package called <a href="http://fritzing.org/home/" target="\_blank">fritzing</a> that allows you to create fancy-looking schematics and diagrams--that's what I'm using here to show you >our setups.
 
-<div class="circular numbers">
+<div class="numbers">
 	<b>2</b>
 </div>
 
@@ -103,7 +103,7 @@ The <a href="http://makezine.com/projects/mini-blind-minder/" target="\_blank">M
 
 Next, we'll want to test out the ESP8266. Unfortunately, the way it's built out of the box isn't compatible with a breadboard since some pins will always end up on the same lines. Since the modules are so cheap, we bought a few and designated one as the prototype chip. We used <a href="http://arduining.com/2015/01/02/making-esp8266-breadboard-frienly/" target="\_target">these instructions</a> to make it breadboard friendly. Now we can plug in half of the pins on one side of the breadboard, and the other four pins on the other side.
 
-<div class="circular numbers">
+<div class="numbers">
 	<b>3</b>
 </div>
 
@@ -113,7 +113,7 @@ Now we'll need to learn a little bit about the ESP8266. This post titled <a href
 
 <center><img src="/images/Echo-Blinds/ESP8266-Testing_bb.png" alt="ESP8266 testing with bread board setup"></img></center>
 
-<div class="circular numbers">
+<div class="numbers">
 	<b>4</b>
 </div>
 
@@ -137,7 +137,7 @@ And here is a picture of our actual setup. Don't pay attention to the colors of 
 
 <center><img src="/images/Echo-Blinds/echo_blinds_prototype.JPG" alt="Echo Blinds physical prototype" style="width: 70%;"></img></center>
 
-<div class="circular numbers">
+<div class="numbers">
 	<b>5</b>
 </div>
 

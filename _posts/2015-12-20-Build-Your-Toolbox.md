@@ -34,7 +34,7 @@ As a side-note on blog building, a friend suggested that we register with <a hre
 	<tr>
 		<td><a rel="nofollow" href="https://www.arduino.cc/en/Main/Software" target="\_blank">Arduino Software</a></td>
 
-		<td><a rel="nofollow" href="https://www.arduino.cc/en/Main/Software" target="\_blank"><img border="0" src="/images/Arduino_Logo.png"></a><img src="/images/Arduino_Logo.png" width="1" height="1" border="0" alt="Arduino logo" style="border:none !important; margin:0px !important;" /></td>
+		<td><a rel="nofollow" href="https://www.arduino.cc/en/Main/Software" target="\_blank"><img border="0" src="/images/Logos/Arduino_Logo.png"></a><img src="/images/Logos/Arduino_Logo.png" width="1" height="1" border="0" alt="Arduino logo" style="border:none !important; margin:0px !important;" /></td>
 
 		<td>Download the Arduino software to start creating sketches in C/C++.</td>
 	</tr>

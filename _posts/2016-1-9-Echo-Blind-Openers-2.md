@@ -21,7 +21,7 @@ To start, let's take a look at the tools we'll put to use for this project:
 		</td>
 
 		<td>
-			<center><a href="https://developer.amazon.com/public/solutions/alexa/alexa-skills-kit/getting-started-guide" target="\_blank"><img src="/images/alexa-skills-logo.png"></img></a></center>
+			<center><a href="https://developer.amazon.com/public/solutions/alexa/alexa-skills-kit/getting-started-guide" target="\_blank"><img src="/images/Logos/alexa-skills-logo.png"></img></a></center>
 		</td>
 
 		<td>
@@ -35,7 +35,7 @@ To start, let's take a look at the tools we'll put to use for this project:
 		</td>
 
 		<td>
-			<center><a href="https://aws.amazon.com/lambda/" target="\_blank"><img src="/images/lambda-icon.png"></img></a></center>
+			<center><a href="https://aws.amazon.com/lambda/" target="\_blank"><img src="/images/Logos/lambda-icon.png"></img></a></center>
 		</td>
 
 		<td>
@@ -63,7 +63,7 @@ To start, let's take a look at the tools we'll put to use for this project:
 		</td>
 
 		<td>
-			<center><img src="/images/middleware.png"></img></center>
+			<center><img src="/images/Logos/middleware.png"></img></center>
 		</td>
 
 		<td>
@@ -77,7 +77,7 @@ To start, let's take a look at the tools we'll put to use for this project:
 		</td>
 
 		<td>
-			<center><a href="https://aws.amazon.com/elasticbeanstalk/" target="\_blank"><img src="/images/elastic_beanstalk_logo.png"></img></a></center>
+			<center><a href="https://aws.amazon.com/elasticbeanstalk/" target="\_blank"><img src="/images/Logos/elastic_beanstalk_logo.png"></img></a></center>
 		</td>
 
 		<td>

@@ -111,7 +111,7 @@ Once you've got that ready, here are some of my favorite blogging toolbox items:
 		</td>
 
 		<td>
-			Font Awesome is a free font of logos and icons. I use it on the blog to create the buttons at the bottom of the page to link to an RSS feed and my Github and LinkedIn accounts. I used in the line above to create the gear icon!
+			Font Awesome is a free font of logos and icons. I use it on the blog to create the buttons at the bottom of the page to link to an RSS feed and my Github and LinkedIn accounts. I used it in the row above to create the gear icon!
 		</td>
 	</tr>
 
@@ -121,7 +121,7 @@ Once you've got that ready, here are some of my favorite blogging toolbox items:
 
 	<tr>
 		<td>
-			Run the blog locally before posting
+			<b>Run the blog locally before posting</b>
 		</td>
 
 		<td>
@@ -129,10 +129,13 @@ Once you've got that ready, here are some of my favorite blogging toolbox items:
 		</td>
 
 		<td>
-			It's very helpful to see what your blog will look like as you're building it and before you show it to everyone else. To do this, I use my Command Prompt (just search of it on your computer) to navigate into my blog directory and then serve it on my local computer. The commands are super basic:
+			It's very helpful to see what your blog will look like as you're building it and before you show it to everyone else. You'll need to make sure to follow the directions in the <a href="https://www.smashingmagazine.com/2014/08/build-blog-jekyll-github-pages/" target="\_blank">Smashing Magazine post</a> or this <a href="http://jekyllrb.com/docs/quickstart/" target="\_blank">Jekyll Quick-Start Guide</a> first. Then I use my Command Prompt (just search of it on your computer) to navigate into my blog directory and then serve it on my local computer. The commands are super basic:
+			<br></br>
 			<script src="https://gist.github.com/madjenjen/f23aa17199c2fcf3c0ec.js"></script>
 			Then you'll use your web browser to go to <a href="http://127.0.0.1:4000" target=\_blank">http://127.0.0.1:4000</a> to check out your blog!
-
+			<br></br>
+			Another option is to use <a href="https://git-scm.com/downloads" target="\_blank">Git Bash</a> instead of Command Prompt.
+			<br></br>
 			Fun fact: Jekyll is smart enough to know the date you want your blog posted, and it won't show it even locally if you put a future date on it, so for testing purposes, title your blog with today's date and then change it when you're ready to push it to the world.
 
 		</td>
@@ -140,7 +143,7 @@ Once you've got that ready, here are some of my favorite blogging toolbox items:
 
 	<tr>
 		<td>
-			Use git for source control and repository
+			<b>Use git for source control and repository</b>
 		</td>
 
 		<td>

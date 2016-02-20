@@ -1,9 +1,9 @@
 ---
 layout: post
-title: Building a Blog
+title: Build a Blog Toolbox
 image: /images/One_Color_Logo.png
 ---
-It's been about 2 months into this New Year's resolution and I've picked up some pretty dece tools and techniques for building a blog. In this post, we'll break away from convention and blog about blogging (Yo dawg, I heard you liked blogging...). Here I'll list and discuss some of the tools and techniques that have come in most handy along the way so far.
+It's been about 3 months into this New Year's resolution and I've picked up some pretty dece tools and techniques for building a blog. In this post, we'll break away from convention and blog about blogging (Yo dawg, I heard you liked blogging...). Here I'll list and discuss some of the tools and techniques that have come in most handy along the way so far.
 
 <!--more-->
 

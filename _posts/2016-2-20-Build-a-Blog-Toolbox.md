@@ -117,11 +117,25 @@ Once you've got that ready, here are some of my favorite blogging toolbox items:
 
 	<tr>
 		<td>
+			<a href="https://www.google.com/fonts" target="\_blank">Google Fonts</a>
+		</td>
+
+		<td>
+			<center><a href="https://www.google.com/fonts" target="\_blank"><img src="/images/Logos/google_logo.png" alt="Google Logo"></img></a></center>
+		</td>
+
+		<td>
+			Google graciously offers a bunch of nice free fonts to use in any of your web development projects. Just add the reference to the font in your <code>default.html</code> file and you're good to go!
+		</td>
+	</tr>
+
+	<tr>
+		<td>
 			<a href="https://products.office.com/en-us/powerpoint" target="\_blank">Microsoft PowerPoint</a>
 		</td>
 
 		<td>
-			<center><a href="https://products.office.com/en-us/powerpoint" target="\_blank"><img src="/images/Logos/powerpoint_logo.png" alt="Inscape Logo"></img></a></center>
+			<center><a href="https://products.office.com/en-us/powerpoint" target="\_blank"><img src="/images/Logos/powerpoint_logo.png" alt="PowerPoint Logo"></img></a></center>
 		</td>
 
 		<td>

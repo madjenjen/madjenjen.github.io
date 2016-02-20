@@ -116,6 +116,20 @@ Once you've got that ready, here are some of my favorite blogging toolbox items:
 	</tr>
 
 	<tr>
+		<td>
+			<a href="https://products.office.com/en-us/powerpoint" target="\_blank">Microsoft PowerPoint</a>
+		</td>
+
+		<td>
+			<center><a href="https://products.office.com/en-us/powerpoint" target="\_blank"><img src="/images/Logos/powerpoint_logo.png" alt="Inscape Logo"></img></a></center>
+		</td>
+
+		<td>
+			Ok, this one's not free, but I'm really comfortable using it for rapid prototyping purposes and more complicated graphics. It's not great if you're trying to be a legit designer, but it's easy to use. There are a lot of <a href="http://www.powtoon.com/blog/10-best-powerpoint-alternatives/" target="\_blank">free alternatives</a> out there as well, and you can probably use Gimp and Inkscape to do all the same things.
+		</td>
+	</tr>
+
+	<tr>
 		<th colspan="3">Techniques</th>
 	</tr>
 
@@ -152,6 +166,20 @@ Once you've got that ready, here are some of my favorite blogging toolbox items:
 
 		<td>
 			This blog is built using the free GitHub Pages feature of GitHub, so it makes sense to use git for source control as well. I downloaded <a href="https://www.cygwin.com/" target="\_blank">Cygwin</a> for my Windows computer (you won't have to do this if you're using a Mac) and use it to save my blog changes locally and then push them to the master repository when they're dece enough for the world to see! Check out this <a href="https://try.github.io/levels/1/challenges/1" target="\_blank">15 minute tutorial on how to use git</a>.
+		</td>
+	</tr>
+</table>
+
+To show you how far we've come with these tools, here's a screenshot of the first out-of-the-box iteration of this blog before I began styling it, side-by-side with the prototype I built in PowerPoint for my vision of what I wanted the blog to look like in the end.
+
+<table>
+	<tr>
+		<td>
+			<center><img src="/images/Old_Blog.png" alt="Screenshot of unstyled blog"></img></center>
+		</td>
+
+		<td>
+			<center><img src="/images/Blog-Prototype.png" alt="Screenshot of blog prototype"></img></center>
 		</td>
 	</tr>
 </table>

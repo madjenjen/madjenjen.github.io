@@ -6,7 +6,7 @@ image: /images/One_Color_Logo.png
 For this project, TheConnMan and I combined two of our greatest loves:
 
 * Mine: having plants, but not actually having to take care of plants.
-* TheConnMan's: Slack, the chat tool. He's eerily obsessed with it...
+* TheConnMan's: <a href="https://slack.com/" target="\_blank">Slack</a>, the chat tool. He's concerningly obsessed with it...
 
 <!--more-->
 
@@ -14,29 +14,29 @@ As before, similar projects exist out on the internet, because the internet is c
 
 <table width = "100%">
   <tr>
-    <td width = "36%">
+    <td width = "36%"  style="border: 0px;">
       <a href="http://www.instructables.com/id/Automatically-water-your-small-indoor-plant-using-/" target="\_blank">Inspiration for Arduino shield design</a>
     </td>
 
-    <td width = "62%">
+    <td width = "62%"  style="border: 0px;">
       <a href="http://www.youtube.com/watch?v=WjbeQjXJnSk&t=2m34s" target="\_blank">Inspiration for mechanical watering design</a>
     </td>
   </tr>
 
   <tr>
-    <td>
+    <td  style="border: 0px;">
       <center><a href="http://www.instructables.com/id/Automatically-water-your-small-indoor-plant-using-/" target="\_blank"><img src="http://cdn.instructables.com/F4O/536Z/HUBWU0WB/F4O536ZHUBWU0WB.LARGE.jpg"
       alt="Automatically water your small indoor plant using Arduino + Pump"></img></a></center>
     </td>
 
-    <td>
+    <td  style="border: 0px;">
       <center><a href="http://www.youtube.com/watch?v=WjbeQjXJnSk&t=2m34s" target="\_blank"><img src="http://img.youtube.com/vi/WjbeQjXJnSk/0.jpg"
       alt="How to Bonsai - Automatic watering system for Apartment or Condo video"></img></a></center>
     </td>
   </tr>
 </table>
 
-The special sauce that we'll add to our project is an integration with the popular chat application Slack, so your system will let you know when it's watering the tree!
+The special sauce that we'll add to our project is an integration with the popular chat application Slack, so your system will let you know when it's watering your tree!
 
 As always here are the additions to our <a href="http://pretty-dece.com/Build-Your-Toolbox/" target="\_blank">toolbox</a> for this particular project:
 
@@ -123,25 +123,11 @@ As always here are the additions to our <a href="http://pretty-dece.com/Build-Yo
 
   <tr>
     <td>
-      Bowl
+      <a  href="https://www.amazon.com/gp/product/B01EURPIKK/ref=as_li_tl?ie=UTF8&camp=1789&creative=9325&creativeASIN=B01EURPIKK&linkCode=as2&tag=predec-20&linkId=3ce7499f5958b1eed2eb073f2e1da2be" target="\_blank">21" Planter Bowl</a><img src="//ir-na.amazon-adsystem.com/e/ir?t=predec-20&l=am2&o=1&a=B01EURPIKK" width="1" height="1" border="0" alt="" style="border:none !important; margin:0px !important;" />
     </td>
 
     <td>
-
-    </td>
-
-    <td>
-
-    </td>
-  </tr>
-
-  <tr>
-    <td>
-      Mesh bowl
-    </td>
-
-    <td>
-
+      <a href="https://www.amazon.com/gp/product/B01EURPIKK/ref=as_li_tl?ie=UTF8&camp=1789&creative=9325&creativeASIN=B01EURPIKK&linkCode=as2&tag=predec-20&linkId=de0783f4c5f19faa524d2635cde57554" target="\_blank"><img border="0" src="//ws-na.amazon-adsystem.com/widgets/q?_encoding=UTF8&MarketPlace=US&ASIN=B01EURPIKK&ServiceVersion=20070822&ID=AsinImage&WS=1&Format=_SL110_&tag=predec-20" ></a><img src="//ir-na.amazon-adsystem.com/e/ir?t=predec-20&l=am2&o=1&a=B01EURPIKK" width="1" height="1" border="0" alt="21\" Planter Bowl" style="border:none !important; margin:0px !important;" />
     </td>
 
     <td>
@@ -151,11 +137,11 @@ As always here are the additions to our <a href="http://pretty-dece.com/Build-Yo
 
   <tr>
     <td>
-      1/2" PVC
+      <a  href="https://www.amazon.com/gp/product/B001U0O2UI/ref=as_li_tl?ie=UTF8&camp=1789&creative=9325&creativeASIN=B001U0O2UI&linkCode=as2&tag=predec-20&linkId=0ab461838918811bc7cb06f58ae092aa" target="\_blank">7-1/2" Stainless Steel Mesh Colander</a><img src="//ir-na.amazon-adsystem.com/e/ir?t=predec-20&l=am2&o=1&a=B001U0O2UI" width="1" height="1" border="0" alt="" style="border:none !important; margin:0px !important;" />
     </td>
 
     <td>
-
+      <a href="https://www.amazon.com/gp/product/B001U0O2UI/ref=as_li_tl?ie=UTF8&camp=1789&creative=9325&creativeASIN=B001U0O2UI&linkCode=as2&tag=predec-20&linkId=03a07fddf59e459436bc42f552005e7d" target="\_blank"><img border="0" src="//ws-na.amazon-adsystem.com/widgets/q?_encoding=UTF8&MarketPlace=US&ASIN=B001U0O2UI&ServiceVersion=20070822&ID=AsinImage&WS=1&Format=_SL110_&tag=predec-20" ></a><img src="//ir-na.amazon-adsystem.com/e/ir?t=predec-20&l=am2&o=1&a=B001U0O2UI" width="1" height="1" border="0" alt="7-1/2\" Stainless Steel Mesh Colander" style="border:none !important; margin:0px !important;" />
     </td>
 
     <td>
@@ -165,11 +151,25 @@ As always here are the additions to our <a href="http://pretty-dece.com/Build-Yo
 
   <tr>
     <td>
-      <a  href="https://www.amazon.com/gp/product/B000E62TCC/ref=as_li_tl?ie=UTF8&camp=1789&creative=9325&creativeASIN=B000E62TCC&linkCode=as2&tag=predec-20&linkId=dd353e0355223f82a4943f7756ac27b9" target="\_blank">Food Grade Vinyl Tubing 5/16 ID - 7/16 OD</a><img src="//ir-na.amazon-adsystem.com/e/ir?t=predec-20&l=am2&o=1&a=B000E62TCC" width="1" height="1" border="0" alt="" style="border:none !important; margin:0px !important;" />
+      <a  href="https://www.amazon.com/gp/product/B000FMWTVG/ref=as_li_tl?ie=UTF8&camp=1789&creative=9325&creativeASIN=B000FMWTVG&linkCode=as2&tag=predec-20&linkId=3eda70c6daf6728d11c2ef711c39f46b" target="\_blank">5/16"ID, 1/2"OD Silicone Tubing</a><img src="//ir-na.amazon-adsystem.com/e/ir?t=predec-20&l=am2&o=1&a=B000FMWTVG" width="1" height="1" border="0" alt="" style="border:none !important; margin:0px !important;" />
     </td>
 
     <td>
-      <a href="https://www.amazon.com/gp/product/B000E62TCC/ref=as_li_tl?ie=UTF8&camp=1789&creative=9325&creativeASIN=B000E62TCC&linkCode=as2&tag=predec-20&linkId=286ab00e8a8cbc83d72fd66bf5bc7439" target="\_blank"><img border="0" src="//ws-na.amazon-adsystem.com/widgets/q?_encoding=UTF8&MarketPlace=US&ASIN=B000E62TCC&ServiceVersion=20070822&ID=AsinImage&WS=1&Format=_SL110_&tag=predec-20" ></a><img src="//ir-na.amazon-adsystem.com/e/ir?t=predec-20&l=am2&o=1&a=B000E62TCC" width="1" height="1" border="0" alt="Food Grade Vinyl Tubing 5/16 ID - 7/16 OD" style="border:none !important; margin:0px !important;" />
+      <a href="https://www.amazon.com/gp/product/B000FMWTVG/ref=as_li_tl?ie=UTF8&camp=1789&creative=9325&creativeASIN=B000FMWTVG&linkCode=as2&tag=predec-20&linkId=ce02eab412901115d0c11f5539bcb7f9" target="\_blank"><img border="0" src="//ws-na.amazon-adsystem.com/widgets/q?_encoding=UTF8&MarketPlace=US&ASIN=B000FMWTVG&ServiceVersion=20070822&ID=AsinImage&WS=1&Format=_SL110_&tag=predec-20" ></a><img src="//ir-na.amazon-adsystem.com/e/ir?t=predec-20&l=am2&o=1&a=B000FMWTVG" width="1" height="1" border="0" alt="5/16\"ID, 1/2\"OD Silicone Tubing" style="border:none !important; margin:0px !important;" />
+    </td>
+
+    <td>
+      White SiliconeTubing, 5/16"ID, 1/2"OD, 3/32" Wall, 10' Length
+    </td>
+  </tr>
+
+  <tr>
+    <td>
+      <a  href="https://www.amazon.com/gp/product/B006ZNP8AS/ref=as_li_tl?ie=UTF8&camp=1789&creative=9325&creativeASIN=B006ZNP8AS&linkCode=as2&tag=predec-20&linkId=1352954bc6f99b5e91be43ca59e0e25d" target="\_blank">1/2" Sprinkler Converter with Two 1/4" Barb Outlets</a><img src="//ir-na.amazon-adsystem.com/e/ir?t=predec-20&l=am2&o=1&a=B006ZNP8AS" width="1" height="1" border="0" alt="" style="border:none !important; margin:0px !important;" />
+    </td>
+
+    <td>
+      <a href="https://www.amazon.com/gp/product/B006ZNP8AS/ref=as_li_tl?ie=UTF8&camp=1789&creative=9325&creativeASIN=B006ZNP8AS&linkCode=as2&tag=predec-20&linkId=0f604e270b4ee6ca5fcb90de974615aa" target="\_blank"><img border="0" src="//ws-na.amazon-adsystem.com/widgets/q?_encoding=UTF8&MarketPlace=US&ASIN=B006ZNP8AS&ServiceVersion=20070822&ID=AsinImage&WS=1&Format=_SL110_&tag=predec-20" ></a><img src="//ir-na.amazon-adsystem.com/e/ir?t=predec-20&l=am2&o=1&a=B006ZNP8AS" width="1" height="1" border="0" alt="1/2\" Sprinkler Converter with Two 1/4\" Barb Outlets" style="border:none !important; margin:0px !important;" />
     </td>
 
     <td>

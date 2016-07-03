@@ -103,7 +103,7 @@ As always here are the additions to our <a href="http://pretty-dece.com/Build-Yo
 
     <td>
       A warning note on soil moisture sensors: we have yet to find one that won't corrode in a fairly short period of time. We first used a
-      <a  href="https://www.amazon.com/gp/product/B00TMD43BS/ref=as_li_tl?ie=UTF8&camp=1789&creative=9325&creativeASIN=B00TMD43BS&linkCode=as2&tag=predec-20&linkId=2cebe5542f88d2b2b851e5d0e9842804" target="\_blank">soil resistivity-based sensor</a><img src="//ir-na.amazon-adsystem.com/e/ir?t=predec-20&l=am2&o=1&a=B00TMD43BS" width="1" height="1" border="0" alt="" style="border:none !important; margin:0px !important;" />, but it stopped working in about 2 weeks. We are now using the I2C sensor which measures the capacitance of the soil instead. It corroded in about a month, so it's still not suitable for full-time use. We now use the system only when going on vacation.Also, this sensor ships from Lithuania, so allow for about 2 weeks delivery time!
+      <a  href="https://www.amazon.com/gp/product/B00TMD43BS/ref=as_li_tl?ie=UTF8&camp=1789&creative=9325&creativeASIN=B00TMD43BS&linkCode=as2&tag=predec-20&linkId=2cebe5542f88d2b2b851e5d0e9842804" target="\_blank">soil resistivity-based sensor</a><img src="//ir-na.amazon-adsystem.com/e/ir?t=predec-20&l=am2&o=1&a=B00TMD43BS" width="1" height="1" border="0" alt="" style="border:none !important; margin:0px !important;" />, but it stopped working in about 2 weeks. We are now using the I2C sensor which measures the capacitance of the soil instead. It corroded in about a month, so it's still not suitable for full-time use. We now use the system only when going on vacation. Also, this sensor ships from Lithuania, so allow for about 2 weeks delivery time!
     </td>
   </tr>
 

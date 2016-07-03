@@ -42,6 +42,8 @@ As before, similar projects exist out on the internet, because the internet is c
 
 The special sauce that we'll add to our project is an integration with the popular chat application Slack, so your system will let you know when it's watering your tree!
 
+There is, though, one unfortunate caveat up front: we tried a couple of different soil moisture sensors, but each one corroded pretty quickly when used around the clock. Our biggest pain point was keeping the tree watered while we are away on vacation, so we'll be using the system only for that purpose moving forward. If you have any leads on a better soil moisture sensor that can withstand sitting in soil for extended periods of time (more than about 1 month), let us know in the comments!
+
 As always here are the additions to our <a href="http://pretty-dece.com/Build-Your-Toolbox/" target="\_blank">toolbox</a> for this particular project:
 
 ### List of Parts ###
@@ -88,7 +90,7 @@ As always here are the additions to our <a href="http://pretty-dece.com/Build-Yo
 		</td>
 
 		<td>
-      This project is a bit more complicated than the last because it requires us to use 3 different magnitudes of voltage. The motor requires 12 V, but the Arduino can't run on anything more than about 5-7 V. Our sensor will require 3 V. This little module allows us to take the 12V voltage from the outlet and step it down to 5V to power the Arduino.
+      This project is a bit more complicated than the last because it requires us to use 3 different voltages. The motor requires 12 V, but the Arduino can't run on anything more than about 5-7 V. Our sensor will require 3 V. This little module allows us to take the 12V voltage from the outlet and step it down to 5V to power the Arduino.
 		</td>
 	</tr>
 
@@ -102,8 +104,8 @@ As always here are the additions to our <a href="http://pretty-dece.com/Build-Yo
     </td>
 
     <td>
-      A warning note on soil moisture sensors: we have yet to find one that won't corrode in a fairly short period of time. We first used a
-      <a  href="https://www.amazon.com/gp/product/B00TMD43BS/ref=as_li_tl?ie=UTF8&camp=1789&creative=9325&creativeASIN=B00TMD43BS&linkCode=as2&tag=predec-20&linkId=2cebe5542f88d2b2b851e5d0e9842804" target="\_blank">soil resistivity-based sensor</a><img src="//ir-na.amazon-adsystem.com/e/ir?t=predec-20&l=am2&o=1&a=B00TMD43BS" width="1" height="1" border="0" alt="" style="border:none !important; margin:0px !important;" />, but it stopped working in about 2 weeks. We are now using the I2C sensor which measures the capacitance of the soil instead. It corroded in about a month, so it's still not suitable for full-time use. We now use the system only when going on vacation. Also, this sensor ships from Lithuania, so allow for about 2 weeks delivery time!
+      As mentioned above: we have yet to find one that won't corrode in a fairly short period of time. We first used a
+      <a  href="https://www.amazon.com/gp/product/B00TMD43BS/ref=as_li_tl?ie=UTF8&camp=1789&creative=9325&creativeASIN=B00TMD43BS&linkCode=as2&tag=predec-20&linkId=2cebe5542f88d2b2b851e5d0e9842804" target="\_blank">soil resistivity-based sensor</a><img src="//ir-na.amazon-adsystem.com/e/ir?t=predec-20&l=am2&o=1&a=B00TMD43BS" width="1" height="1" border="0" alt="" style="border:none !important; margin:0px !important;" />, but it stopped working in about 2 weeks. We are now using the I2C sensor which measures the capacitance of the soil instead. It corroded in about a month, so it's still not suitable for full-time use. We now use the system only when going on vacation.Also, this sensor ships from Lithuania, so allow for about 2 weeks delivery time!
     </td>
   </tr>
 
@@ -286,7 +288,7 @@ As always here are the additions to our <a href="http://pretty-dece.com/Build-Yo
 
 </table>
 
-All right! Now that we're stocked up, let's get to down to business! First, we'll test each individual part to make sure they're working as intended and then put it all together.
+All right! Now that we're stocked up, let's get down to business! First, we'll test each individual part to make sure each is working as intended and then put it all together.
 
 <div class="numbers">
 	<b>1</b>
@@ -326,13 +328,13 @@ Ok, now the fun part. Let's try out the transistor. Set up the circuit as shown 
 
 <center><img src="/images/Bonsai-Water/Part1/Transistor_Testing_bb.png" alt="LM2596 testing breadboard setup"></img></center>
 
-What should happen is that the Arduino powers normally (touch the bottom of it after about a minute in this configuration to make sure it's not heating up too much--if it is heating up too much, you may need to dial down the output voltage on the step-down module). Then the motor should turn on at full speed for 10 seconds, shut off for 10 seconds, then turn on at about half-speed for 10 seconds. The LED on the Arduino should also turn on when the motor is on.
+The Arduino should power up normally (touch the bottom of it after about a minute in this configuration to make sure it's not heating up too much--if it is heating up too much, you may need to dial down the output voltage on the step-down module). Then the motor should turn on at full speed for 10 seconds, shut off for 10 seconds, then turn on at about half-speed for 10 seconds. The LED on the Arduino should also turn on when the motor is on.
 
 <p class="highlight-trigger" highlight-file="file-bonsaiwater_transistor_testing-ino" highlight-lines="1,12,15,20,23">Here's what's happening with the code. We're using the
 <a href="https://www.arduino.cc/en/Tutorial/PWM" target="\_blank">PWM</a>
 feature of one of the analog pins on the Arduino to modulate how frequently the transistor gets power. When we supply the transistor base with power, that closes the circuit to allow the motor to run. The lower the frequency, the slower the motor will run. This feature will come in handy when we calibrate the system later to make sure the water isn't overshooting your tree.</p>
 
->Reminder: roll your mouse over the paragraph above to highlight the related lines of code in the snippet below.
+>Roll your mouse over the paragraph above to highlight the related lines of code in the snippet below.
 
 <script src="https://gist.github.com/madjenjen/c8abf90d2c33705828b5464b8272513f.js?file=bonsaiwater_transistor_testing.ino"></script>
 

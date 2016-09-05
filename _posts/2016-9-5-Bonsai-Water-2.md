@@ -57,7 +57,7 @@ As always, we're going to add some more tools to our toolbox:
 		</td>
 
 		<td>
-
+			Node is a lightweight server-side JavaScript framework which allows you to build small, fast applications. 
 		</td>
 	</tr>
 

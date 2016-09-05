@@ -57,7 +57,7 @@ As always, we're going to add some more tools to our toolbox:
 		</td>
 
 		<td>
-			Node is a lightweight server-side JavaScript framework which allows you to build small, fast applications. 
+			Node is a lightweight server-side JavaScript framework which allows you to build small, fast applications.
 		</td>
 	</tr>
 
@@ -97,7 +97,7 @@ An astute reader might notice that our bonsai is already connected to the Intern
 
 For the Echo Blinds project, we wrote a whole <a href="https://grails.org/" target="\_blank">Grails application</a> for the relay server. We used an embedded database to store the objects, used Grails controllers to create the REST endpoints, and Grails views to make an API tester. This approach worked (and can be found <a href="https://github.com/TheConnMan/Message-Relay" target="\_blank">here</a> if you're interested), but it was just too heavy. There's no need for a full application server and a <a href="https://jenkins.io/" target="\_blank">Jenkins</a> instance to build the project and 750MB of RAM just to sit around for 99.9% of the day. The bottom line is that we're cheap, we didn't want to pay for that instance, so we built the Slack relay as a super simple Node.js projects.
 
-So without further ado, let's go through the steps!
+Let's begin by setting up our environment.
 
 <div class="numbers">
 	<b>1</b>
@@ -119,7 +119,7 @@ Once you have completed the above guide go to <a href="http://docs.aws.amazon.co
 ### Setup Docker.
 Now that you have an EC2 instance, we'll need to connect to it to set up Docker. <a href="http://docs.aws.amazon.com/AWSEC2/latest/UserGuide/AccessingInstancesLinux.html" target="\_blank">SSH into your EC2 instance</a>. For Ubuntu you can connect by running `ssh -i /path/to/mykey.pem ubuntu@ec2-my-ip.compute-1.amazonaws.com` in your favorite terminal application. Once you have connected, run the following to install Docker: ```bash sudo su curl -sSL https://get.docker.com/ | sh```
 
-And that's it, you've got Docker installed. To verify run `docker run hello-world`. You'll see the `hello-world` image get pulled down and echo a little "Hello World" message to you. Now we're ready to dive into **Slack Relay**.
+And that's it, you've got Docker installed. To verify run `docker run hello-world`. You'll see the `hello-world` image get pulled down and echo a little "Hello World" message to you.
 
 <div class="numbers">
 	<b>3</b>
@@ -146,7 +146,7 @@ After that just fire up a browser and go to http://localhost (or http://ec2-my-i
 	<b>5</b>
 </div>
 
-### Optional: Understand the code.
+### Optional: Read the source code.
 
 This step is optional. Just running the command above will get you going. However, if you'd like to know more, read on.
 

@@ -5,12 +5,11 @@ image: /images/Logos/Slack.png
 ---
 This is the second installment of **Bonsai Watering for Slackers** where we'll cover the software involved in giving our bonsai tree a voice through <a href="https://slack.com" target="\_blank">Slack</a>. This way our bonsai can let us know when it's getting watered with a nice message like this:
 
+<!--more-->
+
 <center><img src="/images/Bonsai-Water/Part2/bonsai-water-slack-messages.PNG" alt="sample Slack messages"></img></center>
 
-
 The full source code for what we'll cover today can be found at <a href="https://github.com/TheConnMan/Slack-Relay" target="\_blank">https://github.com/TheConnMan/Slack-Relay</a>.
-
-<!--more-->
 
 ### Toolbox Additions
 As always, we're going to add some more tools to our toolbox:

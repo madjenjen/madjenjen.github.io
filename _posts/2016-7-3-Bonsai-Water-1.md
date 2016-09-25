@@ -304,9 +304,14 @@ We used this little guy in the <a href="http://pretty-dece.com/Echo-Blind-Opener
 
 ### Test the LM2596 Step Down Module ###
 
-Next, try out the step down module. Set up the breadboard as shown below and plug the jack into a power supply plugged directly into a wall socket. You can turn the little gold knob on top of blue box using a small flat-head screw driver to vary the output voltage. Use a <a rel="nofollow" href="http://www.amazon.com/gp/product/B00KHP6EIK/ref=as_li_tl?ie=UTF8&camp=1789&creative=9325&creativeASIN=B00KHP6EIK&linkCode=as2&tag=predec-20&linkId=373ZXL2NC3XP4SKV" target="\_blank">multimeter</a><img src="http://ir-na.amazon-adsystem.com/e/ir?t=predec-20&l=as2&o=1&a=B00KHP6EIK" width="1" height="1" border="0" alt="" style="border:none !important; margin:0px !important;" /> to measure the output voltage at the bottom of the breadboard. We want to get it to about 5 V.
+Next, try out the step down module. Set up the breadboard as shown below and plug the jack into a power supply plugged directly into a wall socket. You can turn the little gold knob on top of blue box using a small flat-head screw driver to vary the output voltage.
 
 <center><img src="/images/Bonsai-Water/Part1/RioRand_LM2596_Testing_bb.png" alt="LM2596 testing breadboard setup"></img></center>
+
+Use a <a rel="nofollow" href="http://www.amazon.com/gp/product/B00KHP6EIK/ref=as_li_tl?ie=UTF8&camp=1789&creative=9325&creativeASIN=B00KHP6EIK&linkCode=as2&tag=predec-20&linkId=373ZXL2NC3XP4SKV" target="\_blank">multimeter</a><img src="http://ir-na.amazon-adsystem.com/e/ir?t=predec-20&l=as2&o=1&a=B00KHP6EIK" width="1" height="1" border="0" alt="" style="border:none !important; margin:0px !important;" /> to measure the output voltage at the bottom of the breadboard. We want to get it to about 5 V.
+
+
+<center><img src="/images/Bonsai-Water/Part1/step-down-module-testing.gif" alt="Testing the step down module voltage with a potentiometer"></img></center>
 
 <div class="numbers">
 	<b>3</b>

@@ -15,7 +15,7 @@ All right, Slackers, now that we've got the circuit and software designed (see <
 
 We first have to modify the motor slightly to secure a fit with the   <a  href="https://www.amazon.com/gp/product/B000FMWTVG/ref=as_li_tl?ie=UTF8&camp=1789&creative=9325&creativeASIN=B000FMWTVG&linkCode=as2&tag=predec-20&linkId=3eda70c6daf6728d11c2ef711c39f46b" target="\_blank">silicone tubing</a><img src="//ir-na.amazon-adsystem.com/e/ir?t=predec-20&l=am2&o=1&a=B000FMWTVG" width="1" height="1" border="0" alt="" style="border:none !important; margin:0px !important;" />. We tried to find tubing and a motor that would fit together, but came up empty on Amazon, so instead we'll just wrap any kind of rubber band around the output valve of the motor to slightly increase its outer diameter.
 
-<center><img src="/images/Bonsai-Water/Part3/motor_prep1_1.JPG" alt="Motor prep step 1"></img></center>
+<center><img src="/images/Bonsai-Water/Part3/motor_prep1.JPG" alt="Motor prep step 1"></img></center>
 
 Next, we'll need to extend the motor wires since they need to stretch out of the basin. Twist the wires together and add some solder to reinforce the join.
 

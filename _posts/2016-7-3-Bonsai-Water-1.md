@@ -378,7 +378,7 @@ Side-note, it's my goal for the next project to learn more about wire management
 
 Here's the full code. Try it out for now, and in the next blog installment we'll walk through how to set up a Slack channel to start receiving messages from your tree! For now, try lifting the sensor in and out of a glass of water to activate the motor (make sure it's also in water).
 
-<script src="https://gist.github.com/madjenjen/48b7e66ce4761c4f6cb9d33305e46b53.js"></script>
+<script src="https://gist.github.com/madjenjen/48b7e66ce4761c4f6cb9d33305e46b53.js?file=bonsaiwater.ino"></script>
 
 ### Extra Bonus ###
 The reason this project took so long is I had to learn a lot of new stuff for it. And even after I had figured out transistors (after frying 4 of them), step-down modules, analog modulation, and I2C protocols and finally got the thing to work, it turned out that Fritzing didn't have the parts I needed to build the pretty circuit pictures for the blog!

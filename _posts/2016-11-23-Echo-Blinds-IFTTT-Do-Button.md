@@ -18,7 +18,7 @@ We are only adding one item to our toolbox for this one.
 
 <table>
   <tr>
-    <th colspan="3">Inventory</td>
+    <th colspan="3">Inventory</th>
   </tr>
 	<tr>
 		<td>

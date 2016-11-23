@@ -13,7 +13,7 @@ All right, Slackers, now that we've got the circuit and software designed (see <
 
 ### Customize the motor.
 
-We first have to modify the motor slightly to secure a fit with the   <a  href="https://www.amazon.com/gp/product/B000FMWTVG/ref=as_li_tl?ie=UTF8&camp=1789&creative=9325&creativeASIN=B000FMWTVG&linkCode=as2&tag=predec-20&linkId=3eda70c6daf6728d11c2ef711c39f46b" target="\_blank">silicone tubing</a><img src="//ir-na.amazon-adsystem.com/e/ir?t=predec-20&l=am2&o=1&a=B000FMWTVG" width="1" height="1" border="0" alt="" style="border:none !important; margin:0px !important;" />. We tried to find tubing and a motor that would fit together, but came up empty on Amazon, so instead we'll just wrap any kind of rubber band around the output valve of the motor to slightly increase its outer diameter.
+We first have to modify the motor slightly to secure a fit with the   <a  href="https://www.amazon.com/gp/product/B000FMWTVG/ref=as_li_tl?ie=UTF8&camp=1789&creative=9325&creativeASIN=B000FMWTVG&linkCode=as2&tag=predec-20&linkId=3eda70c6daf6728d11c2ef711c39f46b" target="\_blank">silicone tubing</a><img src="//ir-na.amazon-adsystem.com/e/ir?t=predec-20&l=am2&o=1&a=B000FMWTVG" width="1" height="1" border="0" alt="" style="border:none !important; margin:0px !important;" >. We tried to find tubing and a motor that would fit together, but came up empty on Amazon, so instead we'll just wrap any kind of rubber band around the output valve of the motor to slightly increase its outer diameter.
 
 <center><img src="/images/Bonsai-Water/Part3/motor_prep1.JPG" alt="Motor prep step 1"></center>
 
@@ -21,7 +21,7 @@ Next, we'll need to extend the motor wires since they need to stretch out of the
 
 <center><img src="/images/Bonsai-Water/Part3/motor_prep2.JPG" alt="Motor prep step 2"></center>
 
-Since these wire connections are going to be submerged in water, it's impoartant to protect them with some <a  href="https://www.amazon.com/gp/product/B00EXLRW5S/ref=as_li_tl?ie=UTF8&camp=1789&creative=9325&creativeASIN=B00EXLRW5S&linkCode=as2&tag=predec-20&linkId=f05c32eb8e7cbf8513455ad8046949f0" target="\_blank">heat shrink tubing</a><img src="//ir-na.amazon-adsystem.com/e/ir?t=predec-20&l=am2&o=1&a=B00EXLRW5S" width="1" height="1" border="0" alt="" style="border:none !important; margin:0px !important;" />.
+Since these wire connections are going to be submerged in water, it's impoartant to protect them with some <a  href="https://www.amazon.com/gp/product/B00EXLRW5S/ref=as_li_tl?ie=UTF8&camp=1789&creative=9325&creativeASIN=B00EXLRW5S&linkCode=as2&tag=predec-20&linkId=f05c32eb8e7cbf8513455ad8046949f0" target="\_blank">heat shrink tubing</a><img src="//ir-na.amazon-adsystem.com/e/ir?t=predec-20&l=am2&o=1&a=B00EXLRW5S" width="1" height="1" border="0" alt="" style="border:none !important; margin:0px !important;" >.
 
 <center><img src="/images/Bonsai-Water/Part3/motor_prep3.JPG" alt="Motor prep step 3"></center>
 
@@ -47,7 +47,7 @@ And here's a close-up of the wire connections to the sensor.
 
 ### Put together the tubing.
 
-Now we need to put together the tubing. First, connect the <a  href="https://www.amazon.com/gp/product/B000FJX5DU/ref=as_li_tl?ie=UTF8&camp=1789&creative=9325&creativeASIN=B000FJX5DU&linkCode=as2&tag=predec-20&linkId=333540dcaf4a353c12bbabab80ebb1d6" target="\_blank">drip irrigation tubing</a><img src="//ir-na.amazon-adsystem.com/e/ir?t=predec-20&l=am2&o=1&a=B000FJX5DU" width="1" height="1" border="0" alt="" style="border:none !important; margin:0px !important;" /> to the <a  href="https://www.amazon.com/gp/product/B006ZNP8AS/ref=as_li_tl?ie=UTF8&camp=1789&creative=9325&creativeASIN=B006ZNP8AS&linkCode=as2&tag=predec-20&linkId=1352954bc6f99b5e91be43ca59e0e25d" target="\_blank"> sprinkler converter</a><img src="//ir-na.amazon-adsystem.com/e/ir?t=predec-20&l=am2&o=1&a=B006ZNP8AS" width="1" height="1" border="0" alt="" style="border:none !important; margin:0px !important;" />. Make sure to cut generous lengths of the drip irrigation tubing at first. Once they're connected to the converter, they're nearly impossible to pull off.
+Now we need to put together the tubing. First, connect the <a  href="https://www.amazon.com/gp/product/B000FJX5DU/ref=as_li_tl?ie=UTF8&camp=1789&creative=9325&creativeASIN=B000FJX5DU&linkCode=as2&tag=predec-20&linkId=333540dcaf4a353c12bbabab80ebb1d6" target="\_blank">drip irrigation tubing</a><img src="//ir-na.amazon-adsystem.com/e/ir?t=predec-20&l=am2&o=1&a=B000FJX5DU" width="1" height="1" border="0" alt="" style="border:none !important; margin:0px !important;" > to the <a  href="https://www.amazon.com/gp/product/B006ZNP8AS/ref=as_li_tl?ie=UTF8&camp=1789&creative=9325&creativeASIN=B006ZNP8AS&linkCode=as2&tag=predec-20&linkId=1352954bc6f99b5e91be43ca59e0e25d" target="\_blank"> sprinkler converter</a><img src="//ir-na.amazon-adsystem.com/e/ir?t=predec-20&l=am2&o=1&a=B006ZNP8AS" width="1" height="1" border="0" alt="" style="border:none !important; margin:0px !important;" >. Make sure to cut generous lengths of the drip irrigation tubing at first. Once they're connected to the converter, they're nearly impossible to pull off.
 
 <center><img src="/images/Bonsai-Water/Part3/splitter1.JPG" alt="Tube splitter prep step 1"></center>
 
@@ -65,7 +65,7 @@ Doing so leaves a perfectly-sized connection point inside of the converter for t
 
 ### Customize the colander.
 
-Take the <a  href="https://www.amazon.com/gp/product/B001U0O2UI/ref=as_li_tl?ie=UTF8&camp=1789&creative=9325&creativeASIN=B001U0O2UI&linkCode=as2&tag=predec-20&linkId=0ab461838918811bc7cb06f58ae092aa" target="\_blank">stainless steel mesh colander</a><img src="//ir-na.amazon-adsystem.com/e/ir?t=predec-20&l=am2&o=1&a=B001U0O2UI" width="1" height="1" border="0" alt="" style="border:none !important; margin:0px !important;" /> and use wirecutters to make a hole big enough for the silicone tubing at the bottom of the colander. Snip a small divet out of the top of the colander so the motor wires can pass under the colander.
+Take the <a  href="https://www.amazon.com/gp/product/B001U0O2UI/ref=as_li_tl?ie=UTF8&camp=1789&creative=9325&creativeASIN=B001U0O2UI&linkCode=as2&tag=predec-20&linkId=0ab461838918811bc7cb06f58ae092aa" target="\_blank">stainless steel mesh colander</a><img src="//ir-na.amazon-adsystem.com/e/ir?t=predec-20&l=am2&o=1&a=B001U0O2UI" width="1" height="1" border="0" alt="" style="border:none !important; margin:0px !important;" > and use wirecutters to make a hole big enough for the silicone tubing at the bottom of the colander. Snip a small divet out of the top of the colander so the motor wires can pass under the colander.
 
 <div class="numbers">
 	<b>5</b>
@@ -77,7 +77,7 @@ Finally, we can build out the basin. Place the motor at the bottom of the basin.
 
 <center><img src="/images/Bonsai-Water/Part3/resevoir1.JPG" alt="Basin build out step 1"></center>
 
-Now <a  href="https://www.amazon.com/gp/product/B00E0NG6W4/ref=as_li_tl?ie=UTF8&camp=1789&creative=9325&creativeASIN=B00E0NG6W4&linkCode=as2&tag=predec-20&linkId=bc1e8235df714f37432665575cf94837" target="\_blank">rock</a><img src="//ir-na.amazon-adsystem.com/e/ir?t=predec-20&l=am2&o=1&a=B00E0NG6W4" width="1" height="1" border="0" alt="" style="border:none !important; margin:0px !important;" />it out! The basin will get very heavy, so make sure it's placed in a convenient location. Fill the reservoir to about 1 inch below capacity with rocks.
+Now <a  href="https://www.amazon.com/gp/product/B00E0NG6W4/ref=as_li_tl?ie=UTF8&camp=1789&creative=9325&creativeASIN=B00E0NG6W4&linkCode=as2&tag=predec-20&linkId=bc1e8235df714f37432665575cf94837" target="\_blank">rock</a><img src="//ir-na.amazon-adsystem.com/e/ir?t=predec-20&l=am2&o=1&a=B00E0NG6W4" width="1" height="1" border="0" alt="" style="border:none !important; margin:0px !important;" >it out! The basin will get very heavy, so make sure it's placed in a convenient location. Fill the reservoir to about 1 inch below capacity with rocks.
 
 <center><img src="/images/Bonsai-Water/Part3/resevoir2.JPG" alt="Basin build out step 2"></center>
 

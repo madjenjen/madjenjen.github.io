@@ -45,11 +45,11 @@ To start, let's take a look at the tools we'll put to use for this project:
 
 	<tr>
 		<td>
-			<a rel="nofollow" href="http://www.amazon.com/gp/product/B00O34AGSU/ref=as_li_tl?ie=UTF8&camp=1789&creative=9325&creativeASIN=B00O34AGSU&linkCode=as2&tag=predec-20&linkId=7DU44Q4MEDBH2OOW" target="\_blank">ESP8266 Serial Wifi Wireless Transceiver Module</a><img src="http://ir-na.amazon-adsystem.com/e/ir?t=predec-20&l=as2&o=1&a=B00O34AGSU" width="1" height="1" border="0" alt="" style="border:none !important; margin:0px !important;" />
+			<a rel="nofollow" href="http://www.amazon.com/gp/product/B00O34AGSU/ref=as_li_tl?ie=UTF8&camp=1789&creative=9325&creativeASIN=B00O34AGSU&linkCode=as2&tag=predec-20&linkId=7DU44Q4MEDBH2OOW" target="\_blank">ESP8266 Serial Wifi Wireless Transceiver Module</a><img src="http://ir-na.amazon-adsystem.com/e/ir?t=predec-20&l=as2&o=1&a=B00O34AGSU" width="1" height="1" border="0" alt="" style="border:none !important; margin:0px !important;" >
 		</td>
 
 		<td>
-			<a rel="nofollow" href="http://www.amazon.com/gp/product/B00O34AGSU/ref=as_li_tl?ie=UTF8&camp=1789&creative=9325&creativeASIN=B00O34AGSU&linkCode=as2&tag=predec-20&linkId=IXJQFSMSWMDORJPS" target="\_blank"><img border="0" src="http://ws-na.amazon-adsystem.com/widgets/q?_encoding=UTF8&ASIN=B00O34AGSU&Format=_SL250_&ID=AsinImage&MarketPlace=US&ServiceVersion=20070822&WS=1&tag=predec-20" ></a><img src="http://ir-na.amazon-adsystem.com/e/ir?t=predec-20&l=as2&o=1&a=B00O34AGSU" width="1" height="1" border="0" alt="ESP8266 Serial Wifi Wireless Transceiver Module" style="border:none !important; margin:0px !important;" />
+			<a rel="nofollow" href="http://www.amazon.com/gp/product/B00O34AGSU/ref=as_li_tl?ie=UTF8&camp=1789&creative=9325&creativeASIN=B00O34AGSU&linkCode=as2&tag=predec-20&linkId=IXJQFSMSWMDORJPS" target="\_blank"><img border="0" src="http://ws-na.amazon-adsystem.com/widgets/q?_encoding=UTF8&ASIN=B00O34AGSU&Format=_SL250_&ID=AsinImage&MarketPlace=US&ServiceVersion=20070822&WS=1&tag=predec-20" ></a><img src="http://ir-na.amazon-adsystem.com/e/ir?t=predec-20&l=as2&o=1&a=B00O34AGSU" width="1" height="1" border="0" alt="ESP8266 Serial Wifi Wireless Transceiver Module" style="border:none !important; margin:0px !important;" >
 		</td>
 
 		<td>
@@ -120,7 +120,7 @@ So now that we've explored all the individual components let's put it all togeth
 
 Getting a message from one place to another is definitely non-trival. Communication between devices is the fundamental difficulty when working with IoT. Since building this project I have discovered a few things which could help if I was to rebuild this architecture.
 
-First, I learned about the <a href="https://github.com/armzilla/amazon-echo-ha-bridge" target="\_blank">Amazon Echo Bridge</a>. This project emulates a <a rel="nofollow" href="http://www.amazon.com/gp/product/B00A4EUUO8/ref=as_li_tl?ie=UTF8&camp=1789&creative=9325&creativeASIN=B00A4EUUO8&linkCode=as2&tag=predec-20&linkId=KIYKMLJKMHEMUYUY" target="\_blank">Philips Hue</a><img src="http://ir-na.amazon-adsystem.com/e/ir?t=predec-20&l=as2&o=1&a=B00A4EUUO8" width="1" height="1" border="0" alt="" style="border:none !important; margin:0px !important;" /> (internet connected lights) bridge which allows the Amazon Echo to communicate within your home WiFi network. This could be used to communicate directly with the Arduino without use of the relay server.
+First, I learned about the <a href="https://github.com/armzilla/amazon-echo-ha-bridge" target="\_blank">Amazon Echo Bridge</a>. This project emulates a <a rel="nofollow" href="http://www.amazon.com/gp/product/B00A4EUUO8/ref=as_li_tl?ie=UTF8&camp=1789&creative=9325&creativeASIN=B00A4EUUO8&linkCode=as2&tag=predec-20&linkId=KIYKMLJKMHEMUYUY" target="\_blank">Philips Hue</a><img src="http://ir-na.amazon-adsystem.com/e/ir?t=predec-20&l=as2&o=1&a=B00A4EUUO8" width="1" height="1" border="0" alt="" style="border:none !important; margin:0px !important;" > (internet connected lights) bridge which allows the Amazon Echo to communicate within your home WiFi network. This could be used to communicate directly with the Arduino without use of the relay server.
 
 The second interesting service is AWS's <a href="https://aws.amazon.com/iot/" target="\_blank">IoT service</a>. This service is built to be an IoT communication system so all your IoT devices can talk with each other through a single medium. For two devices it might not make sense, but if many devices need to communicate with each other it's definitely worth a look. Perhaps a future refactoring project is in order!
 

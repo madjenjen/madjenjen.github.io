@@ -13,6 +13,7 @@ Luckily, there's a pretty easy solution while we wait for the development kit fo
 If you haven't yet forayed into the world of <a href="https://ifttt.com/recipes" target="\_blank">If This Then That (IFTTT)</a>, this is the perfect opportunity. I will ashamedly admit that this is my first time using the service!
 
 ### Toolbox Additions
+
 We are only adding one item to our toolbox for this one.
 
 <table>

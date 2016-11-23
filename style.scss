@@ -65,8 +65,7 @@ h3 {
 }
 
 h4 {
-  font-size: 11px;
-  color: $gray;
+  font-size: 15px;
 }
 
 p {
@@ -112,8 +111,13 @@ i:first-child{
   color: $white;
 }
 
-strong, b {
+b {
   font-weight: bold;
+}
+
+strong {
+  font-weight: bold;
+  color: $pink;
 }
 
 img {

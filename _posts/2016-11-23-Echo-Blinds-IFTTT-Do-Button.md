@@ -81,9 +81,9 @@ For this first version, we're creating two buttons. One to "open blinds" and one
 
 The messages that we sent to the <a href="https://github.com/TheConnMan/Node-Relay" target="\_blank">Relay Server</a> through Alexa have a specific structure that looks like a normal URL that the Arduino code translates into actions. That's all a "web request" is--just a URL. There are a couple of parts to the URL:
 
-- The <strong>Address</strong> to your relay server (for example, ours is http://projects.theconnman.com:3000).
-- The <strong>API Key</strong> (this is a secret key that you stored in your hidden <code>config.h</code> file called API_KEY) as described in step 5 of <a href="http://pretty-dece.com/Echo-Blind-Openers/" target="\_blank">this post</a>.
-- The <strong>Client ID</strong>, which you also stored in the same hidden <code>config.h</code> file called DST_IP.
+- The <b class="pink">Address</b> to your relay server (for example, ours is http://projects.theconnman.com:3000).
+- The <b class="pink">API Key</b> (this is a secret key that you stored in your hidden <code>config.h</code> file called API_KEY) as described in step 5 of <a href="http://pretty-dece.com/Echo-Blind-Openers/" target="\_blank">this post</a>.
+- The <b class="pink">Client ID</b>, which you also stored in the same hidden <code>config.h</code> file called DST_IP.
 
 So to fill out the fields in the Do Button recipe, enter the following (replacing the pink words with the items discussed above):
 
@@ -91,7 +91,7 @@ So to fill out the fields in the Do Button recipe, enter the following (replacin
 <code>Open blinds</code>
 
 #### URL
-<code><strong>Address</strong>/api/put?apiKey=<strong>API Key</strong>&clientId=<strong>Client ID</strong>&payload={"open":true}</code>
+<code><b class="pink">Address</b>/api/put?apiKey=<b class="pink">API Key</b>&clientId=<b class="pink">Client ID</b>&payload={"open":true}</code>
 
 #### Method
 <code>GET</code>
@@ -111,7 +111,7 @@ To make the close blinds button, you'll follow step 3 again, but this time you'l
 <code>Close blinds</code>
 
 #### URL
-<code><strong>Address</strong>/api/put?apiKey=<strong>API Key</strong>&clientId=<strong>Client ID</strong>&payload={"open":false}</code>
+<code><b class="pink">Address</b>/api/put?apiKey=<b class="pink">API Key</b>&clientId=<b class="pink">Client ID</b>&payload={"open":false}</code>
 
 #### Method
 <code>GET</code>

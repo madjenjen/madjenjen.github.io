@@ -109,13 +109,8 @@ i:first-child{
   color: $white;
 }
 
-b {
+b, strong {
   font-weight: bold;
-}
-
-strong {
-  font-weight: bold;
-  color: $pink;
 }
 
 img {
@@ -153,6 +148,9 @@ code {
   padding: .3em .4em;
 }
 
+.pink {
+  color: $pink;
+}
 .circular {
   border-radius: 50%;
   -webkit-border-radius: 50%;

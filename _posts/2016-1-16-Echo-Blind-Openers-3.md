@@ -42,11 +42,11 @@ As I talk through these steps, roll-over the text with your mouse and you'll see
 
 <script src="https://gist.github.com/madjenjen/ebacb9cd350ddc5b0c39.js?file=echoblinds-5.ino"></script>
 
-<p class="highlight-trigger" highlight-file="file-echoblinds-6-ino" highlight-lines="5,7">The `connectWiFi` function in the code below builds the command for the WiFi module pulling information from your config.h file (such as your network id and password) to try to connect to the network. You don't need to customize this code.
+<p class="highlight-trigger" highlight-file="file-echoblinds-6-ino" highlight-lines="5,7">The `connectWiFi` function in the code below builds the command for the WiFi module pulling information from your config.h file (such as your network id and password) to try to connect to the network. You don't need to customize this code.</p>
 
 <script src="https://gist.github.com/madjenjen/ebacb9cd350ddc5b0c39.js?file=echoblinds-6.ino"></script>
 
-<p class="highlight-trigger" highlight-file="file-echoblinds-7-ino" highlight-lines="1-3">This final snippet runs if we use the button to restart the project without unplugging it. It allows the program to start over and try to reconnect to the WiFi network without throwing everything else off.
+<p class="highlight-trigger" highlight-file="file-echoblinds-7-ino" highlight-lines="1-3">This final snippet runs if we use the button to restart the project without unplugging it. It allows the program to start over and try to reconnect to the WiFi network without throwing everything else off.</p>
 
 <script src="https://gist.github.com/madjenjen/ebacb9cd350ddc5b0c39.js?file=echoblinds-7.ino"></script>
 

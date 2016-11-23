@@ -125,7 +125,7 @@ Fill the basin up with water. Stop once the water is about 1 inch below the rock
 
 <script src="https://gist.github.com/madjenjen/48b7e66ce4761c4f6cb9d33305e46b53.js?file=bonsaiwater-water-message.ino"></script>
 
-<p class="highlight-trigger" highlight-file="file-bonsaiwater-status-message-ino" highlight-lines="15,17,19">You can also <b>change the status message</b> that comes through at the frequency you determined earlier. Ours comes in every hour.
+<p class="highlight-trigger" highlight-file="file-bonsaiwater-status-message-ino" highlight-lines="15,17,19">You can also <b>change the status message</b> that comes through at the frequency you determined earlier. Ours comes in every hour.</p>
 
 <script src="https://gist.github.com/madjenjen/48b7e66ce4761c4f6cb9d33305e46b53.js?file=bonsaiwater-status-message.ino"></script>
 

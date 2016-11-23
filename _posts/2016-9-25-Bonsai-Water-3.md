@@ -134,6 +134,7 @@ Fill the basin up with water. Stop once the water is about 1 inch below the rock
 </div>
 
 ### Troubleshoot common problems.
+
 As we mentioned in the first post, this setup is still somewhat finicky. Ideally, we wanted to run the system 24/7 to take care of our plant, but after about a month of use, we started getting strange readings in our Slack channel. The soil was never getting dry and therefore the tree wasn't getting watered. Turns out the sensor corroded.
 
 <table>

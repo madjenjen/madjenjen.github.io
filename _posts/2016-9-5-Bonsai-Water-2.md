@@ -39,7 +39,7 @@ As always, we're going to add some more tools to our toolbox:
 		</td>
 
 		<td>
-			<center><a href="https://slack.com" target="\_blank"><img src="/images/Logos/Slack.png" alt="Slack logo"></img></a></center>
+			<center><a href="https://slack.com" target="\_blank"><img src="/images/Logos/Slack.png" alt="Slack logo"></a></center>
 		</td>
 
 		<td>
@@ -53,7 +53,7 @@ As always, we're going to add some more tools to our toolbox:
 		</td>
 
 		<td>
-			<a href="https://nodejs.org/en/" target="\_blank"><img src="/images/Logos/nodejs-icon.png" alt="NodeJS logo"></img></a>
+			<a href="https://nodejs.org/en/" target="\_blank"><img src="/images/Logos/nodejs-icon.png" alt="NodeJS logo"></a>
 		</td>
 
 		<td>
@@ -67,7 +67,7 @@ As always, we're going to add some more tools to our toolbox:
 		</td>
 
 		<td>
-			<center><a href="https://www.docker.com/" target="\_blank"><img src="/images/Logos/docker.png" alt="Docker logo"></img></a></center>
+			<center><a href="https://www.docker.com/" target="\_blank"><img src="/images/Logos/docker.png" alt="Docker logo"></a></center>
 		</td>
 
 		<td>
@@ -81,7 +81,7 @@ As always, we're going to add some more tools to our toolbox:
 		</td>
 
 		<td>
-			<center><a href="https://aws.amazon.com//" target="\_blank"><img src="/images/Logos/aws.png" alt="AWS logo"></img></a></center>
+			<center><a href="https://aws.amazon.com//" target="\_blank"><img src="/images/Logos/aws.png" alt="AWS logo"></a></center>
 		</td>
 
 		<td>

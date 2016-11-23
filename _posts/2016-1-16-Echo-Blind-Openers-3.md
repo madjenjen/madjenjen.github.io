@@ -57,7 +57,7 @@ As I talk through these steps, roll-over the text with your mouse and you'll see
 ### Design and Prepare the Shield ###
 Next, it's time to prepare the final shield for the Arduino. The idea is to remove the breadboard and create a shield that will plug right into the Arduino. Here is a mock-up of what the top of our board looks like. Note, we intentionally extended the wires to the servo motors (not pictured here) so that we could reach two windows that are about 10 feet apart.
 
-<img src="/images/Echo-Blinds/Echo-Blinds_Shield.png" alt="Arduino shield design"></img>
+<img src="/images/Echo-Blinds/Echo-Blinds_Shield.png" alt="Arduino shield design">
 
 The easiest way to do this is to have the <a rel="nofollow" href="http://www.amazon.com/gp/product/B000RB38X8/ref=as_li_tl?ie=UTF8&camp=1789&creative=9325&creativeASIN=B000RB38X8&linkCode=as2&tag=predec-20&linkId=TOGS4GP3GINEYJFP" target="\_blank">soldering Helping Hand</a><img src="http://ir-na.amazon-adsystem.com/e/ir?t=predec-20&l=as2&o=1&a=B000RB38X8" width="1" height="1" border="0" alt="" style="border:none !important; margin:0px !important;" /> hold your <a rel="nofollow" href="http://www.amazon.com/gp/product/B00COGNWXA/ref=as_li_tl?ie=UTF8&camp=1789&creative=9325&creativeASIN=B00COGNWXA&linkCode=as2&tag=predec-20&linkId=DE35O33TPTQFJLC4" target="\_blank">double-sided circuit board</a><img src="http://ir-na.amazon-adsystem.com/e/ir?t=predec-20&l=as2&o=1&a=B00COGNWXA" width="1" height="1" border="0" alt="" style="border:none !important; margin:0px !important;" /> while you measure out <a rel="nofollow" href="http://www.amazon.com/gp/product/B00B4ZRPEY/ref=as_li_tl?ie=UTF8&camp=1789&creative=9325&creativeASIN=B00B4ZRPEY&linkCode=as2&tag=predec-20&linkId=7RPQKLNGMXO7E56F" target="\_blank">hook-up wire</a><img src="http://ir-na.amazon-adsystem.com/e/ir?t=predec-20&l=as2&o=1&a=B00B4ZRPEY" width="1" height="1" border="0" alt="" style="border:none !important; margin:0px !important;" /> and prepare it using the <a rel="nofollow" href="http://www.amazon.com/gp/product/B000JNNWQ2/ref=as_li_tl?ie=UTF8&camp=1789&creative=9325&creativeASIN=B000JNNWQ2&linkCode=as2&tag=predec-20&linkId=XK6CPWH5KGQJ2RO2" target="\_blank">multi-tool</a><img src="http://ir-na.amazon-adsystem.com/e/ir?t=predec-20&l=as2&o=1&a=B000JNNWQ2" width="1" height="1" border="0" alt="" style="border:none !important; margin:0px !important;" />.
 
@@ -68,7 +68,7 @@ The easiest way to do this is to have the <a rel="nofollow" href="http://www.ama
 ### Solder the Shield ###
 Now that you've got the board prepared, it's time to solder! Make sure you find a well-ventilated space and that your hair is tied back (some bangs were harmed in the making of this project). Here's our al fresco soldering setup.
 
-<img src="/images/Echo-Blinds/Soldering_Setup.jpg" alt="soldering setup on balcony"></img>
+<img src="/images/Echo-Blinds/Soldering_Setup.jpg" alt="soldering setup on balcony">
 
 When soldering, follow the schematic shown in <a href="http://pretty-dece.com/Echo-Blind-Openers/" target="\_blank">Part 1</a>.
 
@@ -82,25 +82,25 @@ Finally, let's find the Echo Blinds project a permanent home! For our purposes, 
 <table>
 	<tr>
 		<td>
-			<img src="/images/Echo-Blinds/Shield_Top.JPG" alt="Shield top view"></img>
+			<img src="/images/Echo-Blinds/Shield_Top.JPG" alt="Shield top view">
 		</td>
 		<td>
-			<img src="/images/Echo-Blinds/Mantle_Setup.JPG" alt="Mantle setup"></img>
+			<img src="/images/Echo-Blinds/Mantle_Setup.JPG" alt="Mantle setup">
 		</td>
 	</tr>
 
 	<tr>
 		<td rowspan="2">
-			<img src="/images/Echo-Blinds/Motor_Turning.gif" alt="Motor turning animation"></img>
+			<img src="/images/Echo-Blinds/Motor_Turning.gif" alt="Motor turning animation">
 		</td>
 		<td>
-			<img src="/images/Echo-Blinds/Shield_Side.JPG" alt="Shield side view"></img>
+			<img src="/images/Echo-Blinds/Shield_Side.JPG" alt="Shield side view">
 		</td>
 	</tr>
 
 	<tr>
 		<td>
-			<img src="/images/Echo-Blinds/Motor_Closeup.JPG" alt="motor close-up view"></img>
+			<img src="/images/Echo-Blinds/Motor_Closeup.JPG" alt="motor close-up view">
 		</td>
 	</tr>
 </table>

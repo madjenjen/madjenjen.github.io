@@ -21,7 +21,7 @@ To start, let's take a look at the tools we'll put to use for this project:
 		</td>
 
 		<td>
-			<center><a href="https://developer.amazon.com/public/solutions/alexa/alexa-skills-kit/getting-started-guide" target="\_blank"><img src="/images/Logos/alexa-skills-logo.png"></img></a></center>
+			<center><a href="https://developer.amazon.com/public/solutions/alexa/alexa-skills-kit/getting-started-guide" target="\_blank"><img src="/images/Logos/alexa-skills-logo.png"></a></center>
 		</td>
 
 		<td>
@@ -35,7 +35,7 @@ To start, let's take a look at the tools we'll put to use for this project:
 		</td>
 
 		<td>
-			<center><a href="https://aws.amazon.com/lambda/" target="\_blank"><img src="/images/Logos/lambda-icon.png"></img></a></center>
+			<center><a href="https://aws.amazon.com/lambda/" target="\_blank"><img src="/images/Logos/lambda-icon.png"></a></center>
 		</td>
 
 		<td>
@@ -63,7 +63,7 @@ To start, let's take a look at the tools we'll put to use for this project:
 		</td>
 
 		<td>
-			<center><img src="/images/Logos/middleware.png"></img></center>
+			<center><img src="/images/Logos/middleware.png"></center>
 		</td>
 
 		<td>
@@ -77,7 +77,7 @@ To start, let's take a look at the tools we'll put to use for this project:
 		</td>
 
 		<td>
-			<center><a href="https://aws.amazon.com/elasticbeanstalk/" target="\_blank"><img src="/images/Logos/elastic_beanstalk_logo.png"></img></a></center>
+			<center><a href="https://aws.amazon.com/elasticbeanstalk/" target="\_blank"><img src="/images/Logos/elastic_beanstalk_logo.png"></a></center>
 		</td>
 
 		<td>
@@ -116,7 +116,7 @@ This means we need to build a very simple relay server which needs to accept mes
 ### Putting It All Together
 So now that we've explored all the individual components let's put it all together.
 
-<center><img src="/images/Echo-Blinds/Echo-Blinds_Software_Graphic.png"></img></center>
+<center><img src="/images/Echo-Blinds/Echo-Blinds_Software_Graphic.png"></center>
 
 Getting a message from one place to another is definitely non-trival. Communication between devices is the fundamental difficulty when working with IoT. Since building this project I have discovered a few things which could help if I was to rebuild this architecture.
 

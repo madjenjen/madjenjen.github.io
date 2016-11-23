@@ -23,7 +23,7 @@ Once you've got that ready, here are some of my favorite blogging toolbox items:
 		</td>
 
 		<td>
-			<center><a href="https://atom.io/" target="\_blank"><img src="/images/Logos/Atom_logo.png" alt="Atom.io Logo"></img></a></center>
+			<center><a href="https://atom.io/" target="\_blank"><img src="/images/Logos/Atom_logo.png" alt="Atom.io Logo"></a></center>
 		</td>
 
 		<td>
@@ -37,7 +37,7 @@ Once you've got that ready, here are some of my favorite blogging toolbox items:
 		</td>
 
 		<td>
-			<center><a href="http://www.colorhexa.com/" target="\_blank"><img src="/images/Logos/colorhexa_logo.png" alt="ColorHexa Logo"></img></a></center>
+			<center><a href="http://www.colorhexa.com/" target="\_blank"><img src="/images/Logos/colorhexa_logo.png" alt="ColorHexa Logo"></a></center>
 		</td>
 
 		<td>
@@ -51,7 +51,7 @@ Once you've got that ready, here are some of my favorite blogging toolbox items:
 		</td>
 
 		<td>
-			<center><a href="https://inkscape.org/en/" target="\_blank"><img src="/images/Logos/inkscape-logo.png" alt="Inscape Logo"></img></a></center>
+			<center><a href="https://inkscape.org/en/" target="\_blank"><img src="/images/Logos/inkscape-logo.png" alt="Inscape Logo"></a></center>
 		</td>
 
 		<td>
@@ -65,7 +65,7 @@ Once you've got that ready, here are some of my favorite blogging toolbox items:
 		</td>
 
 		<td>
-			<center><a href="https://www.gimp.org/" target="\_blank"><img src="/images/Logos/gimp_logo.png" alt="Gimp Logo"></img></a></center>
+			<center><a href="https://www.gimp.org/" target="\_blank"><img src="/images/Logos/gimp_logo.png" alt="Gimp Logo"></a></center>
 		</td>
 
 		<td>
@@ -79,7 +79,7 @@ Once you've got that ready, here are some of my favorite blogging toolbox items:
 		</td>
 
 		<td>
-			<center><a href="http://fritzing.org/home/" target="\_blank"><img src="/images/Logos/fritzing_logo.png" alt="Fritzing Logo"></img></a></center>
+			<center><a href="http://fritzing.org/home/" target="\_blank"><img src="/images/Logos/fritzing_logo.png" alt="Fritzing Logo"></a></center>
 		</td>
 
 		<td>
@@ -107,7 +107,7 @@ Once you've got that ready, here are some of my favorite blogging toolbox items:
 		</td>
 
 		<td>
-			<center><a href="http://fortawesome.github.io/Font-Awesome/" target="\_blank"><img src="/images/Logos/font-awesome_logo.png" alt="Font Awesome Logo"></img></a></center>
+			<center><a href="http://fortawesome.github.io/Font-Awesome/" target="\_blank"><img src="/images/Logos/font-awesome_logo.png" alt="Font Awesome Logo"></a></center>
 		</td>
 
 		<td>
@@ -121,7 +121,7 @@ Once you've got that ready, here are some of my favorite blogging toolbox items:
 		</td>
 
 		<td>
-			<center><a href="https://www.google.com/fonts" target="\_blank"><img src="/images/Logos/google_logo.png" alt="Google Logo"></img></a></center>
+			<center><a href="https://www.google.com/fonts" target="\_blank"><img src="/images/Logos/google_logo.png" alt="Google Logo"></a></center>
 		</td>
 
 		<td>
@@ -135,7 +135,7 @@ Once you've got that ready, here are some of my favorite blogging toolbox items:
 		</td>
 
 		<td>
-			<center><a href="https://products.office.com/en-us/powerpoint" target="\_blank"><img src="/images/Logos/powerpoint_logo.png" alt="PowerPoint Logo"></img></a></center>
+			<center><a href="https://products.office.com/en-us/powerpoint" target="\_blank"><img src="/images/Logos/powerpoint_logo.png" alt="PowerPoint Logo"></a></center>
 		</td>
 
 		<td>
@@ -153,7 +153,7 @@ Once you've got that ready, here are some of my favorite blogging toolbox items:
 		</td>
 
 		<td>
-			<center><img src="/images/Logos/cmd_logo.png" alt="Command Prompt Logo"></img></center>
+			<center><img src="/images/Logos/cmd_logo.png" alt="Command Prompt Logo"></center>
 		</td>
 
 		<td>
@@ -175,7 +175,7 @@ Once you've got that ready, here are some of my favorite blogging toolbox items:
 		</td>
 
 		<td>
-			<center><a href="https://github.com/madjenjen/madjenjen.github.io" target="\_blank"><img src="/images/Logos/GitHub_logo.png" alt="GitHub Logo"></a></img></center>
+			<center><a href="https://github.com/madjenjen/madjenjen.github.io" target="\_blank"><img src="/images/Logos/GitHub_logo.png" alt="GitHub Logo"></a></center>
 		</td>
 
 		<td>
@@ -189,11 +189,11 @@ To show you how far we've come with these tools, here's a screenshot of the firs
 <table>
 	<tr>
 		<td>
-			<center><img src="/images/Old_Blog.png" alt="Screenshot of unstyled blog"></img></center>
+			<center><img src="/images/Old_Blog.png" alt="Screenshot of unstyled blog"></center>
 		</td>
 
 		<td>
-			<center><img src="/images/Blog-Prototype.png" alt="Screenshot of blog prototype"></img></center>
+			<center><img src="/images/Blog-Prototype.png" alt="Screenshot of blog prototype"></center>
 		</td>
 	</tr>
 </table>

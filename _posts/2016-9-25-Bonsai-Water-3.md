@@ -15,15 +15,15 @@ All right, Slackers, now that we've got the circuit and software designed (see <
 
 We first have to modify the motor slightly to secure a fit with the   <a  href="https://www.amazon.com/gp/product/B000FMWTVG/ref=as_li_tl?ie=UTF8&camp=1789&creative=9325&creativeASIN=B000FMWTVG&linkCode=as2&tag=predec-20&linkId=3eda70c6daf6728d11c2ef711c39f46b" target="\_blank">silicone tubing</a><img src="//ir-na.amazon-adsystem.com/e/ir?t=predec-20&l=am2&o=1&a=B000FMWTVG" width="1" height="1" border="0" alt="" style="border:none !important; margin:0px !important;" />. We tried to find tubing and a motor that would fit together, but came up empty on Amazon, so instead we'll just wrap any kind of rubber band around the output valve of the motor to slightly increase its outer diameter.
 
-<center><img src="/images/Bonsai-Water/Part3/motor_prep1.JPG" alt="Motor prep step 1"></img></center>
+<center><img src="/images/Bonsai-Water/Part3/motor_prep1.JPG" alt="Motor prep step 1"></center>
 
 Next, we'll need to extend the motor wires since they need to stretch out of the basin. Twist the wires together and add some solder to reinforce the join.
 
-<center><img src="/images/Bonsai-Water/Part3/motor_prep2.JPG" alt="Motor prep step 2"></img></center>
+<center><img src="/images/Bonsai-Water/Part3/motor_prep2.JPG" alt="Motor prep step 2"></center>
 
 Since these wire connections are going to be submerged in water, it's impoartant to protect them with some <a  href="https://www.amazon.com/gp/product/B00EXLRW5S/ref=as_li_tl?ie=UTF8&camp=1789&creative=9325&creativeASIN=B00EXLRW5S&linkCode=as2&tag=predec-20&linkId=f05c32eb8e7cbf8513455ad8046949f0" target="\_blank">heat shrink tubing</a><img src="//ir-na.amazon-adsystem.com/e/ir?t=predec-20&l=am2&o=1&a=B00EXLRW5S" width="1" height="1" border="0" alt="" style="border:none !important; margin:0px !important;" />.
 
-<center><img src="/images/Bonsai-Water/Part3/motor_prep3.JPG" alt="Motor prep step 3"></img></center>
+<center><img src="/images/Bonsai-Water/Part3/motor_prep3.JPG" alt="Motor prep step 3"></center>
 
 <div class="numbers">
 	<b>2</b>
@@ -33,13 +33,13 @@ Since these wire connections are going to be submerged in water, it's impoartant
 
 Now let's put together the Arduino shield we designed and prototyped in <a href="http://pretty-dece.com/Bonsai-Water-1/" target="\_blank">Part 1</a>. As I mentioned in the previous post, my goal for the next project is to learn more about wire management so our shields don't keep looking like a sloppy tumbleweed of wires :(.
 
-<center><img src="/images/Bonsai-Water/Part3/Bonsai-for-Slackers_final_circuit_bb.png" alt="Fritzing rendering of final circuit design"></img></center>
+<center><img src="/images/Bonsai-Water/Part3/Bonsai-for-Slackers_final_circuit_bb.png" alt="Fritzing rendering of final circuit design"></center>
 
-<center><img src="/images/Bonsai-Water/Part3/circuit_closeup.JPG" alt="Front of shield"></img></center>
+<center><img src="/images/Bonsai-Water/Part3/circuit_closeup.JPG" alt="Front of shield"></center>
 
 And here's a close-up of the wire connections to the sensor.
 
-<center><img src="/images/Bonsai-Water/Part3/sensor.JPG" alt="Front of shield"></img></center>
+<center><img src="/images/Bonsai-Water/Part3/sensor.JPG" alt="Front of shield"></center>
 
 <div class="numbers">
 	<b>3</b>
@@ -49,15 +49,15 @@ And here's a close-up of the wire connections to the sensor.
 
 Now we need to put together the tubing. First, connect the <a  href="https://www.amazon.com/gp/product/B000FJX5DU/ref=as_li_tl?ie=UTF8&camp=1789&creative=9325&creativeASIN=B000FJX5DU&linkCode=as2&tag=predec-20&linkId=333540dcaf4a353c12bbabab80ebb1d6" target="\_blank">drip irrigation tubing</a><img src="//ir-na.amazon-adsystem.com/e/ir?t=predec-20&l=am2&o=1&a=B000FJX5DU" width="1" height="1" border="0" alt="" style="border:none !important; margin:0px !important;" /> to the <a  href="https://www.amazon.com/gp/product/B006ZNP8AS/ref=as_li_tl?ie=UTF8&camp=1789&creative=9325&creativeASIN=B006ZNP8AS&linkCode=as2&tag=predec-20&linkId=1352954bc6f99b5e91be43ca59e0e25d" target="\_blank"> sprinkler converter</a><img src="//ir-na.amazon-adsystem.com/e/ir?t=predec-20&l=am2&o=1&a=B006ZNP8AS" width="1" height="1" border="0" alt="" style="border:none !important; margin:0px !important;" />. Make sure to cut generous lengths of the drip irrigation tubing at first. Once they're connected to the converter, they're nearly impossible to pull off.
 
-<center><img src="/images/Bonsai-Water/Part3/splitter1.JPG" alt="Tube splitter prep step 1"></img></center>
+<center><img src="/images/Bonsai-Water/Part3/splitter1.JPG" alt="Tube splitter prep step 1"></center>
 
 Next, pull out the little white piece from the converter.
 
-<center><img src="/images/Bonsai-Water/Part3/splitter2.JPG" alt="Tube splitter prep step 2"></img></center>
+<center><img src="/images/Bonsai-Water/Part3/splitter2.JPG" alt="Tube splitter prep step 2"></center>
 
 Doing so leaves a perfectly-sized connection point inside of the converter for the silicone tubing. Again, cut off a generous length of the silicone tubing at first so we can cut it down to length later.
 
-<center><img src="/images/Bonsai-Water/Part3/splitter3.JPG" alt="Tube splitter prep step 3"></img></center>
+<center><img src="/images/Bonsai-Water/Part3/splitter3.JPG" alt="Tube splitter prep step 3"></center>
 
 <div class="numbers">
 	<b>4</b>
@@ -75,27 +75,27 @@ Take the <a  href="https://www.amazon.com/gp/product/B001U0O2UI/ref=as_li_tl?ie=
 
 Finally, we can build out the basin. Place the motor at the bottom of the basin. Attach the silicone tubing to the top of the motor (the section modified with the rubber band). Next, place the colander over the motor. Make sure the tubing is pointed straight up through the hole you made and that the motor wires pass through the divet.
 
-<center><img src="/images/Bonsai-Water/Part3/resevoir1.JPG" alt="Basin build out step 1"></img></center>
+<center><img src="/images/Bonsai-Water/Part3/resevoir1.JPG" alt="Basin build out step 1"></center>
 
 Now <a  href="https://www.amazon.com/gp/product/B00E0NG6W4/ref=as_li_tl?ie=UTF8&camp=1789&creative=9325&creativeASIN=B00E0NG6W4&linkCode=as2&tag=predec-20&linkId=bc1e8235df714f37432665575cf94837" target="\_blank">rock</a><img src="//ir-na.amazon-adsystem.com/e/ir?t=predec-20&l=am2&o=1&a=B00E0NG6W4" width="1" height="1" border="0" alt="" style="border:none !important; margin:0px !important;" />it out! The basin will get very heavy, so make sure it's placed in a convenient location. Fill the reservoir to about 1 inch below capacity with rocks.
 
-<center><img src="/images/Bonsai-Water/Part3/resevoir2.JPG" alt="Basin build out step 2"></img></center>
+<center><img src="/images/Bonsai-Water/Part3/resevoir2.JPG" alt="Basin build out step 2"></center>
 
 Next, cut the silicone tubing to length. We want it about a centimeter above the rocks.
 
-<center><img src="/images/Bonsai-Water/Part3/resevoir3.JPG" alt="Basin build out step 3"></img></center>
+<center><img src="/images/Bonsai-Water/Part3/resevoir3.JPG" alt="Basin build out step 3"></center>
 
 Attach the rest of the tubing setup to the silicone tube.
 
-<center><img src="/images/Bonsai-Water/Part3/resevoir4.JPG" alt="Basin build out step 4"></img></center>
+<center><img src="/images/Bonsai-Water/Part3/resevoir4.JPG" alt="Basin build out step 4"></center>
 
 Fill the basin up to capacity with rocks to make an even surface.
 
-<center><img src="/images/Bonsai-Water/Part3/resevoir5.JPG" alt="Basin build out step 5"></img></center>
+<center><img src="/images/Bonsai-Water/Part3/resevoir5.JPG" alt="Basin build out step 5"></center>
 
 Fill the basin up with water. Stop once the water is about 1 inch below the rock surface. Be careful not to overfill. Finally, place your bonsai tree on top, insert the sensor into the soil, and stake the irrigation tubing in the sides of the basin.
 
-<center><img src="/images/Bonsai-Water/Part3/final-setup.JPG" alt="Final setup"></img></center>
+<center><img src="/images/Bonsai-Water/Part3/final-setup.JPG" alt="Final setup"></center>
 
 <div class="numbers">
 	<b>6</b>
@@ -139,11 +139,11 @@ As we mentioned in the first post, this setup is still somewhat finicky. Ideally
 <table>
 	<tr>
 		<td>
-			<center><img src="/images/Bonsai-Water/Part3/corrosion.JPG" alt="Chirp sensor corrosion side 1"></img></center>
+			<center><img src="/images/Bonsai-Water/Part3/corrosion.JPG" alt="Chirp sensor corrosion side 1"></center>
 		</td>
 
 		<td>
-			<center><img src="/images/Bonsai-Water/Part3/corrosion2.JPG" alt="Chirp sensor corrosion side 2"></img></center>
+			<center><img src="/images/Bonsai-Water/Part3/corrosion2.JPG" alt="Chirp sensor corrosion side 2"></center>
 		</td>
 	</tr>
 </table>
@@ -152,7 +152,7 @@ You'd think a "soil moisture sensor" could handle some soil moisture...
 
 Before the Chirp! sensor, we also tried a simpler resistive sensor, but that one corroded within a week.
 
-<center><img src="/images/Bonsai-Water/Part3/corrosion3.JPG" alt="Resistive sensor corrosion"></img></center>
+<center><img src="/images/Bonsai-Water/Part3/corrosion3.JPG" alt="Resistive sensor corrosion"></center>
 
 Now we only use the system when going away on vacation so we can keep the sensor in good condition.
 

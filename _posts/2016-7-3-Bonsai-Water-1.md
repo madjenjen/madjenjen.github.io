@@ -30,12 +30,12 @@ As before, similar projects exist out on the internet, because the internet is c
   <tr>
     <td  style="border: 0px;">
       <center><a href="http://www.instructables.com/id/Automatically-water-your-small-indoor-plant-using-/" target="\_blank"><img src="http://cdn.instructables.com/F4O/536Z/HUBWU0WB/F4O536ZHUBWU0WB.LARGE.jpg"
-      alt="Automatically water your small indoor plant using Arduino + Pump"></img></a></center>
+      alt="Automatically water your small indoor plant using Arduino + Pump"></a></center>
     </td>
 
     <td  style="border: 0px;">
       <center><a href="http://www.youtube.com/watch?v=WjbeQjXJnSk&t=2m34s" target="\_blank"><img src="http://img.youtube.com/vi/WjbeQjXJnSk/0.jpg"
-      alt="How to Bonsai - Automatic watering system for Apartment or Condo video"></img></a></center>
+      alt="How to Bonsai - Automatic watering system for Apartment or Condo video"></a></center>
     </td>
   </tr>
 </table>
@@ -100,7 +100,7 @@ As always here are the additions to our <a href="http://pretty-dece.com/Build-Yo
     </td>
 
     <td style="text-align: center;">
-      <a href="https://www.tindie.com/products/miceuz/i2c-soil-moisture-sensor/" target="\_blank"><img src="https://d3s5r33r268y59.cloudfront.net/4974/products/thumbs/2015-10-26T14:22:55.624Z-DSC01306.JPG.855x570_q85_pad_rcrop.jpg" alt="I2C Soil Moisture Sensor" width="100%"></img></a>
+      <a href="https://www.tindie.com/products/miceuz/i2c-soil-moisture-sensor/" target="\_blank"><img src="https://d3s5r33r268y59.cloudfront.net/4974/products/thumbs/2015-10-26T14:22:55.624Z-DSC01306.JPG.855x570_q85_pad_rcrop.jpg" alt="I2C Soil Moisture Sensor" width="100%"></a>
     </td>
 
     <td>
@@ -306,12 +306,12 @@ We used this little guy in the <a href="http://pretty-dece.com/Echo-Blind-Opener
 
 Next, try out the step down module. Set up the breadboard as shown below and plug the jack into a power supply plugged directly into a wall socket. You can turn the little gold knob on top of blue box using a small flat-head screw driver to vary the output voltage.
 
-<center><img src="/images/Bonsai-Water/Part1/RioRand_LM2596_Testing_bb.png" alt="LM2596 testing breadboard setup"></img></center>
+<center><img src="/images/Bonsai-Water/Part1/RioRand_LM2596_Testing_bb.png" alt="LM2596 testing breadboard setup"></center>
 
 Use a <a rel="nofollow" href="http://www.amazon.com/gp/product/B00KHP6EIK/ref=as_li_tl?ie=UTF8&camp=1789&creative=9325&creativeASIN=B00KHP6EIK&linkCode=as2&tag=predec-20&linkId=373ZXL2NC3XP4SKV" target="\_blank">multimeter</a><img src="http://ir-na.amazon-adsystem.com/e/ir?t=predec-20&l=as2&o=1&a=B00KHP6EIK" width="1" height="1" border="0" alt="" style="border:none !important; margin:0px !important;" /> to measure the output voltage at the bottom of the breadboard. We want to get it to about 5 V.
 
 
-<center><img src="/images/Bonsai-Water/Part1/step-down-module-testing.gif" alt="Testing the step down module voltage with a potentiometer"></img></center>
+<center><img src="/images/Bonsai-Water/Part1/step-down-module-testing.gif" alt="Testing the step down module voltage with a potentiometer"></center>
 
 <div class="numbers">
 	<b>3</b>
@@ -321,7 +321,7 @@ Use a <a rel="nofollow" href="http://www.amazon.com/gp/product/B00KHP6EIK/ref=as
 
 Ok, now let's try out the water pump. **Please note:** you **must** run the pump under water. It may get damaged if you run it in plain air. Go ahead and plug the jack right into a wall socket power source to make sure the pump runs normally at full force.
 
-<center><img src="/images/Bonsai-Water/Part1/Water_Pump_Testing_bb.png" alt="LM2596 testing breadboard setup"></img></center>
+<center><img src="/images/Bonsai-Water/Part1/Water_Pump_Testing_bb.png" alt="LM2596 testing breadboard setup"></center>
 
 <div class="numbers">
 	<b>4</b>
@@ -331,7 +331,7 @@ Ok, now let's try out the water pump. **Please note:** you **must** run the pump
 
 Ok, now the fun part. Let's try out the transistor. Set up the circuit as shown below and run the code underneath it.
 
-<center><img src="/images/Bonsai-Water/Part1/Transistor_Testing_bb.png" alt="LM2596 testing breadboard setup"></img></center>
+<center><img src="/images/Bonsai-Water/Part1/Transistor_Testing_bb.png" alt="LM2596 testing breadboard setup"></center>
 
 The Arduino should power up normally (touch the bottom of it after about a minute in this configuration to make sure it's not heating up too much--if it is heating up too much, you may need to dial down the output voltage on the step-down module). Then the motor should turn on at full speed for 10 seconds, shut off for 10 seconds, then turn on at about half-speed for 10 seconds. The LED on the Arduino should also turn on when the motor is on.
 
@@ -351,7 +351,7 @@ feature of one of the analog pins on the Arduino to modulate how frequently the 
 
 Lastly, we'll need to test the moisture sensor. Go ahead and hook it up, then stick it in a glass of water.
 
-<center><img src="/images/Bonsai-Water/Part1/Chirp_Sensor_Testing_bb.png" alt="LM2596 testing breadboard setup"></img></center>
+<center><img src="/images/Bonsai-Water/Part1/Chirp_Sensor_Testing_bb.png" alt="LM2596 testing breadboard setup"></center>
 
 Run the code below and wait about 30 seconds. Nothing should be happening.
 
@@ -368,10 +368,10 @@ Now take the sensor out of the water and let it be in plain air. After a few sec
 Now we're ready to put it all together!
 
 Here's the breadboard view:
-<center><img src="/images/Bonsai-Water/Part1/Bonsai_Water_bb.png" alt="LM2596 testing breadboard setup"></img></center>
+<center><img src="/images/Bonsai-Water/Part1/Bonsai_Water_bb.png" alt="LM2596 testing breadboard setup"></center>
 
 And the schematic:
-<center><img width="50%" src="/images/Bonsai-Water/Part1/Bonsai_Water_Schematic.png" alt="LM2596 testing breadboard setup"></img></center>
+<center><img width="50%" src="/images/Bonsai-Water/Part1/Bonsai_Water_Schematic.png" alt="LM2596 testing breadboard setup"></center>
 
 Side-note, it's my goal for the next project to learn more about wire management and circuit design. These are starting to look pretty gnarly. Comment below if you know of any good learning resources!
 

@@ -148,7 +148,7 @@ As always here are the additions to our <a href="http://pretty-dece.com/Build-Yo
     </td>
 
     <td style="text-align: center;">
-      <a href="https://www.amazon.com/gp/product/B001U0O2UI/ref=as_li_tl?ie=UTF8&camp=1789&creative=9325&creativeASIN=B001U0O2UI&linkCode=as2&tag=predec-20&linkId=03a07fddf59e459436bc42f552005e7d" target="\_blank"><img border="0" src="//ws-na.amazon-adsystem.com/widgets/q?_encoding=UTF8&MarketPlace=US&ASIN=B001U0O2UI&ServiceVersion=20070822&ID=AsinImage&WS=1&Format=_SL110_&tag=predec-20" ></a><img src="//ir-na.amazon-adsystem.com/e/ir?t=predec-20&l=am2&o=1&a=B001U0O2UI" width="1" height="1" border="0" alt="7-1/2\" Stainless Steel Mesh Colander" style="border:none !important; margin:0px !important;" >
+      <a href="https://www.amazon.com/gp/product/B001U0O2UI/ref=as_li_tl?ie=UTF8&camp=1789&creative=9325&creativeASIN=B001U0O2UI&linkCode=as2&tag=predec-20&linkId=03a07fddf59e459436bc42f552005e7d" target="\_blank"><img border="0" src="//ws-na.amazon-adsystem.com/widgets/q?_encoding=UTF8&MarketPlace=US&ASIN=B001U0O2UI&ServiceVersion=20070822&ID=AsinImage&WS=1&Format=_SL110_&tag=predec-20" ></a><img src="//ir-na.amazon-adsystem.com/e/ir?t=predec-20&l=am2&o=1&a=B001U0O2UI" width="1" height="1" border="0" alt="Stainless Steel Mesh Colander" style="border:none !important; margin:0px !important;" >
     </td>
 
     <td>
@@ -162,7 +162,7 @@ As always here are the additions to our <a href="http://pretty-dece.com/Build-Yo
     </td>
 
     <td style="text-align: center;">
-      <a href="https://www.amazon.com/gp/product/B000FMWTVG/ref=as_li_tl?ie=UTF8&camp=1789&creative=9325&creativeASIN=B000FMWTVG&linkCode=as2&tag=predec-20&linkId=ce02eab412901115d0c11f5539bcb7f9" target="\_blank"><img border="0" src="//ws-na.amazon-adsystem.com/widgets/q?_encoding=UTF8&MarketPlace=US&ASIN=B000FMWTVG&ServiceVersion=20070822&ID=AsinImage&WS=1&Format=_SL110_&tag=predec-20" ></a><img src="//ir-na.amazon-adsystem.com/e/ir?t=predec-20&l=am2&o=1&a=B000FMWTVG" width="1" height="1" border="0" alt="5/16\"ID, 1/2\"OD Silicone Tubing" style="border:none !important; margin:0px !important;" >
+      <a href="https://www.amazon.com/gp/product/B000FMWTVG/ref=as_li_tl?ie=UTF8&camp=1789&creative=9325&creativeASIN=B000FMWTVG&linkCode=as2&tag=predec-20&linkId=ce02eab412901115d0c11f5539bcb7f9" target="\_blank"><img border="0" src="//ws-na.amazon-adsystem.com/widgets/q?_encoding=UTF8&MarketPlace=US&ASIN=B000FMWTVG&ServiceVersion=20070822&ID=AsinImage&WS=1&Format=_SL110_&tag=predec-20" ></a><img src="//ir-na.amazon-adsystem.com/e/ir?t=predec-20&l=am2&o=1&a=B000FMWTVG" width="1" height="1" border="0" alt="Silicone Tubing" style="border:none !important; margin:0px !important;" >
     </td>
 
     <td>
@@ -176,7 +176,7 @@ As always here are the additions to our <a href="http://pretty-dece.com/Build-Yo
     </td>
 
     <td style="text-align: center;">
-      <a href="https://www.amazon.com/gp/product/B006ZNP8AS/ref=as_li_tl?ie=UTF8&camp=1789&creative=9325&creativeASIN=B006ZNP8AS&linkCode=as2&tag=predec-20&linkId=0f604e270b4ee6ca5fcb90de974615aa" target="\_blank"><img border="0" src="//ws-na.amazon-adsystem.com/widgets/q?_encoding=UTF8&MarketPlace=US&ASIN=B006ZNP8AS&ServiceVersion=20070822&ID=AsinImage&WS=1&Format=_SL110_&tag=predec-20" ></a><img src="//ir-na.amazon-adsystem.com/e/ir?t=predec-20&l=am2&o=1&a=B006ZNP8AS" width="1" height="1" border="0" alt="1/2\" Sprinkler Converter with Two 1/4\" Barb Outlets" style="border:none !important; margin:0px !important;" >
+      <a href="https://www.amazon.com/gp/product/B006ZNP8AS/ref=as_li_tl?ie=UTF8&camp=1789&creative=9325&creativeASIN=B006ZNP8AS&linkCode=as2&tag=predec-20&linkId=0f604e270b4ee6ca5fcb90de974615aa" target="\_blank"><img border="0" src="//ws-na.amazon-adsystem.com/widgets/q?_encoding=UTF8&MarketPlace=US&ASIN=B006ZNP8AS&ServiceVersion=20070822&ID=AsinImage&WS=1&Format=_SL110_&tag=predec-20" ></a><img src="//ir-na.amazon-adsystem.com/e/ir?t=predec-20&l=am2&o=1&a=B006ZNP8AS" width="1" height="1" border="0" alt="Sprinkler Converter with Two Barb Outlets" style="border:none !important; margin:0px !important;" >
     </td>
 
     <td>
@@ -190,11 +190,11 @@ As always here are the additions to our <a href="http://pretty-dece.com/Build-Yo
     </td>
 
     <td style="text-align: center;">
-      <a href="https://www.amazon.com/gp/product/B000FJX5DU/ref=as_li_tl?ie=UTF8&camp=1789&creative=9325&creativeASIN=B000FJX5DU&linkCode=as2&tag=predec-20&linkId=6d93306ef54afb31e03e930550f2c245" target="\_blank"><img border="0" src="//ws-na.amazon-adsystem.com/widgets/q?_encoding=UTF8&MarketPlace=US&ASIN=B000FJX5DU&ServiceVersion=20070822&ID=AsinImage&WS=1&Format=_SL110_&tag=predec-20" ></a><img src="//ir-na.amazon-adsystem.com/e/ir?t=predec-20&l=am2&o=1&a=B000FJX5DU" width="1" height="1" border="0" alt="Drip Irrigation 1/4" Tubing" style="border:none !important; margin:0px !important;" >
+      <a href="https://www.amazon.com/gp/product/B000FJX5DU/ref=as_li_tl?ie=UTF8&camp=1789&creative=9325&creativeASIN=B000FJX5DU&linkCode=as2&tag=predec-20&linkId=6d93306ef54afb31e03e930550f2c245" target="\_blank"><img border="0" src="//ws-na.amazon-adsystem.com/widgets/q?_encoding=UTF8&MarketPlace=US&ASIN=B000FJX5DU&ServiceVersion=20070822&ID=AsinImage&WS=1&Format=_SL110_&tag=predec-20" ></a><img src="//ir-na.amazon-adsystem.com/e/ir?t=predec-20&l=am2&o=1&a=B000FJX5DU" width="1" height="1" border="0" alt="Drip Irrigation Tubing" style="border:none !important; margin:0px !important;" >
     </td>
 
     <td>
-      This is the tubing that will go directly to the tree. I've used the brand listed here, but found that it's very stiff and hard to maneuver, so may be worth taking a look at some <a  href="https://www.amazon.com/gp/product/B00WAXHKFI/ref=as_li_tl?ie=UTF8&camp=1789&creative=9325&creativeASIN=B00WAXHKFI&linkCode=as2&tag=predec-20&linkId=46afa1b635b103cf2c8b633078e4063a" target="\_blank">PVC clear flexible tubing</a><img src="//ir-na.amazon-adsystem.com/e/ir?t=predec-20&l=am2&o=1&a=B00WAXHKFI" width="1" height="1" border="0" alt="" style="border:none !important; margin:0px !important;" > instead.
+      This is the tubing that will go directly to the tree. I've used the brand listed here, but found that it's very stiff and hard to maneuver, so may be worth taking a look at some <a  href="https://www.amazon.com/gp/product/B00WAXHKFI/ref=as_li_tl?ie=UTF8&camp=1789&creative=9325&creativeASIN=B00WAXHKFI&linkCode=as2&tag=predec-20&linkId=46afa1b635b103cf2c8b633078e4063a" target="\_blank">PVC clear flexible tubing</a><img src="//ir-na.amazon-adsystem.com/e/ir?t=predec-20&l=am2&o=1&a=B00WAXHKFI" width="1" height="1" border="0" alt="Drip Irrigation Tubing" style="border:none !important; margin:0px !important;" > instead.
     </td>
   </tr>
 

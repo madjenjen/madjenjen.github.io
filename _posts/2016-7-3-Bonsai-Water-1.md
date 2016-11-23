@@ -58,7 +58,7 @@ As always here are the additions to our <a href="http://pretty-dece.com/Build-Yo
 		</td>
 
 		<td style="text-align: center;">
-		<a href="https://www.amazon.com/gp/product/B00O34AGSU/ref=as_li_tl?ie=UTF8&camp=1789&creative=9325&creativeASIN=B00O34AGSU&linkCode=as2&tag=predec-20&linkId=18452119736f30a686debe59096439e2" target="\_blank"><img border="0" src="//ws-na.amazon-adsystem.com/widgets/q?_encoding=UTF8&MarketPlace=US&ASIN=B00O34AGSU&ServiceVersion=20070822&ID=AsinImage&WS=1&Format=_SL110_&tag=predec-20" ></a><img src="//ir-na.amazon-adsystem.com/e/ir?t=predec-20&l=am2&o=1&a=B00O34AGSU" width="1" height="1" border="0" alt="ESP8266 Serial Wifi Wireless Transceiver Module" style="border:none !important; margin:0px !important;" >
+		<a href="https://www.amazon.com/gp/product/B00O34AGSU/ref=as_li_tl?ie=UTF8&camp=1789&creative=9325&creativeASIN=B00O34AGSU&linkCode=as2&tag=predec-20&linkId=18452119736f30a686debe59096439e2" target="\_blank"><img border="0" src="//ws-na.amazon-adsystem.com/widgets/q?_encoding=UTF8&MarketPlace=US&ASIN=B00O34AGSU&ServiceVersion=20070822&ID=AsinImage&WS=1&Format=_SL110_&tag=predec-20" alt="ESP8266 Serial Wifi Wireless Transceiver Module"></a><img src="//ir-na.amazon-adsystem.com/e/ir?t=predec-20&l=am2&o=1&a=B00O34AGSU" width="1" height="1" border="0" alt="ESP8266 Serial Wifi Wireless Transceiver Module" style="border:none !important; margin:0px !important;" >
 		</td>
 
 		<td>
@@ -72,7 +72,7 @@ As always here are the additions to our <a href="http://pretty-dece.com/Build-Yo
 		</td>
 
 		<td style="text-align: center;">
-  		<a href="https://www.amazon.com/gp/product/B007XHZ25G/ref=as_li_tl?ie=UTF8&camp=1789&creative=9325&creativeASIN=B007XHZ25G&linkCode=as2&tag=predec-20&linkId=5a6e7dde482ca6cc0cf7ca66d0e937f0" target="\_blank"><img border="0" src="//ws-na.amazon-adsystem.com/widgets/q?_encoding=UTF8&MarketPlace=US&ASIN=B007XHZ25G&ServiceVersion=20070822&ID=AsinImage&WS=1&Format=_SL110_&tag=predec-20" ></a><img src="//ir-na.amazon-adsystem.com/e/ir?t=predec-20&l=am2&o=1&a=B007XHZ25G" width="1" height="1" border="0" alt="DC 12V Submersible Mini Pump" style="border:none !important; margin:0px !important;" >
+  		<a href="https://www.amazon.com/gp/product/B007XHZ25G/ref=as_li_tl?ie=UTF8&camp=1789&creative=9325&creativeASIN=B007XHZ25G&linkCode=as2&tag=predec-20&linkId=5a6e7dde482ca6cc0cf7ca66d0e937f0" target="\_blank"><img border="0" src="//ws-na.amazon-adsystem.com/widgets/q?_encoding=UTF8&MarketPlace=US&ASIN=B007XHZ25G&ServiceVersion=20070822&ID=AsinImage&WS=1&Format=_SL110_&tag=predec-20" alt="DC 12V Submersible Mini Pump"></a><img src="//ir-na.amazon-adsystem.com/e/ir?t=predec-20&l=am2&o=1&a=B007XHZ25G" width="1" height="1" border="0" alt="DC 12V Submersible Mini Pump" style="border:none !important; margin:0px !important;" >
 		</td>
 
 		<td>
@@ -86,7 +86,7 @@ As always here are the additions to our <a href="http://pretty-dece.com/Build-Yo
 		</td>
 
 		<td style="text-align: center;">
-      <a href="https://www.amazon.com/gp/product/B008BHAOQO/ref=as_li_tl?ie=UTF8&camp=1789&creative=9325&creativeASIN=B008BHAOQO&linkCode=as2&tag=predec-20&linkId=075fa7322bde177ea90210c0b5166d01" target="\_blank"><img border="0" src="//ws-na.amazon-adsystem.com/widgets/q?_encoding=UTF8&MarketPlace=US&ASIN=B008BHAOQO&ServiceVersion=20070822&ID=AsinImage&WS=1&Format=_SL110_&tag=predec-20" ></a><img src="//ir-na.amazon-adsystem.com/e/ir?t=predec-20&l=am2&o=1&a=B008BHAOQO" width="1" height="1" border="0" alt="LM2596 DC-DC Buck Converter Step Down Module" style="border:none !important; margin:0px !important;" >
+      <a href="https://www.amazon.com/gp/product/B008BHAOQO/ref=as_li_tl?ie=UTF8&camp=1789&creative=9325&creativeASIN=B008BHAOQO&linkCode=as2&tag=predec-20&linkId=075fa7322bde177ea90210c0b5166d01" target="\_blank"><img border="0" src="//ws-na.amazon-adsystem.com/widgets/q?_encoding=UTF8&MarketPlace=US&ASIN=B008BHAOQO&ServiceVersion=20070822&ID=AsinImage&WS=1&Format=_SL110_&tag=predec-20"  alt="LM2596 DC-DC Buck Converter Step Down Module"></a><img src="//ir-na.amazon-adsystem.com/e/ir?t=predec-20&l=am2&o=1&a=B008BHAOQO" width="1" height="1" border="0" alt="LM2596 DC-DC Buck Converter Step Down Module" style="border:none !important; margin:0px !important;" >
 		</td>
 
 		<td>
@@ -115,7 +115,7 @@ As always here are the additions to our <a href="http://pretty-dece.com/Build-Yo
     </td>
 
     <td style="text-align: center;">
-      <a href="https://www.amazon.com/gp/product/B00MMZ2UWM/ref=as_li_tl?ie=UTF8&camp=1789&creative=9325&creativeASIN=B00MMZ2UWM&linkCode=as2&tag=predec-20&linkId=09595460723142ea76254b38dfce6cc0" target="\_blank"><img border="0" src="//ws-na.amazon-adsystem.com/widgets/q?_encoding=UTF8&MarketPlace=US&ASIN=B00MMZ2UWM&ServiceVersion=20070822&ID=AsinImage&WS=1&Format=_SL110_&tag=predec-20" ></a><img src="//ir-na.amazon-adsystem.com/e/ir?t=predec-20&l=am2&o=1&a=B00MMZ2UWM" width="1" height="1" border="0" alt="Semiconductor Bipolar Transistor" style="border:none !important; margin:0px !important;" >
+      <a href="https://www.amazon.com/gp/product/B00MMZ2UWM/ref=as_li_tl?ie=UTF8&camp=1789&creative=9325&creativeASIN=B00MMZ2UWM&linkCode=as2&tag=predec-20&linkId=09595460723142ea76254b38dfce6cc0" target="\_blank"><img border="0" src="//ws-na.amazon-adsystem.com/widgets/q?_encoding=UTF8&MarketPlace=US&ASIN=B00MMZ2UWM&ServiceVersion=20070822&ID=AsinImage&WS=1&Format=_SL110_&tag=predec-20" alt="Semiconductor Bipolar Transistor"></a><img src="//ir-na.amazon-adsystem.com/e/ir?t=predec-20&l=am2&o=1&a=B00MMZ2UWM" width="1" height="1" border="0" alt="Semiconductor Bipolar Transistor" style="border:none !important; margin:0px !important;" >
     </td>
 
     <td>
@@ -134,7 +134,7 @@ As always here are the additions to our <a href="http://pretty-dece.com/Build-Yo
     </td>
 
     <td style="text-align: center;">
-      <a href="https://www.amazon.com/gp/product/B00GJEJCSW/ref=as_li_tl?ie=UTF8&camp=1789&creative=9325&creativeASIN=B00GJEJCSW&linkCode=as2&tag=predec-20&linkId=b2976118b2138810ee465a75346064b7" target="\_blank"><img border="0" src="//ws-na.amazon-adsystem.com/widgets/q?_encoding=UTF8&MarketPlace=US&ASIN=B00GJEJCSW&ServiceVersion=20070822&ID=AsinImage&WS=1&Format=_SL110_&tag=predec-20" ></a><img src="//ir-na.amazon-adsystem.com/e/ir?t=predec-20&l=am2&o=1&a=B00GJEJCSW" width="1" height="1" border="0" alt="12-inch Planter Bowl" style="border:none !important; margin:0px !important;" >
+      <a href="https://www.amazon.com/gp/product/B00GJEJCSW/ref=as_li_tl?ie=UTF8&camp=1789&creative=9325&creativeASIN=B00GJEJCSW&linkCode=as2&tag=predec-20&linkId=b2976118b2138810ee465a75346064b7" target="\_blank"><img border="0" src="//ws-na.amazon-adsystem.com/widgets/q?_encoding=UTF8&MarketPlace=US&ASIN=B00GJEJCSW&ServiceVersion=20070822&ID=AsinImage&WS=1&Format=_SL110_&tag=predec-20" alt="12-inch Planter Bowl"></a><img src="//ir-na.amazon-adsystem.com/e/ir?t=predec-20&l=am2&o=1&a=B00GJEJCSW" width="1" height="1" border="0" alt="12-inch Planter Bowl" style="border:none !important; margin:0px !important;" >
     </td>
 
     <td>
@@ -148,7 +148,7 @@ As always here are the additions to our <a href="http://pretty-dece.com/Build-Yo
     </td>
 
     <td style="text-align: center;">
-      <a href="https://www.amazon.com/gp/product/B001U0O2UI/ref=as_li_tl?ie=UTF8&camp=1789&creative=9325&creativeASIN=B001U0O2UI&linkCode=as2&tag=predec-20&linkId=03a07fddf59e459436bc42f552005e7d" target="\_blank"><img border="0" src="//ws-na.amazon-adsystem.com/widgets/q?_encoding=UTF8&MarketPlace=US&ASIN=B001U0O2UI&ServiceVersion=20070822&ID=AsinImage&WS=1&Format=_SL110_&tag=predec-20" ></a><img src="//ir-na.amazon-adsystem.com/e/ir?t=predec-20&l=am2&o=1&a=B001U0O2UI" width="1" height="1" border="0" alt="Stainless Steel Mesh Colander" style="border:none !important; margin:0px !important;" >
+      <a href="https://www.amazon.com/gp/product/B001U0O2UI/ref=as_li_tl?ie=UTF8&camp=1789&creative=9325&creativeASIN=B001U0O2UI&linkCode=as2&tag=predec-20&linkId=03a07fddf59e459436bc42f552005e7d" target="\_blank"><img border="0" src="//ws-na.amazon-adsystem.com/widgets/q?_encoding=UTF8&MarketPlace=US&ASIN=B001U0O2UI&ServiceVersion=20070822&ID=AsinImage&WS=1&Format=_SL110_&tag=predec-20" alt="Stainless Steel Mesh Colander"></a><img src="//ir-na.amazon-adsystem.com/e/ir?t=predec-20&l=am2&o=1&a=B001U0O2UI" width="1" height="1" border="0" alt="Stainless Steel Mesh Colander" style="border:none !important; margin:0px !important;" >
     </td>
 
     <td>
@@ -162,7 +162,7 @@ As always here are the additions to our <a href="http://pretty-dece.com/Build-Yo
     </td>
 
     <td style="text-align: center;">
-      <a href="https://www.amazon.com/gp/product/B000FMWTVG/ref=as_li_tl?ie=UTF8&camp=1789&creative=9325&creativeASIN=B000FMWTVG&linkCode=as2&tag=predec-20&linkId=ce02eab412901115d0c11f5539bcb7f9" target="\_blank"><img border="0" src="//ws-na.amazon-adsystem.com/widgets/q?_encoding=UTF8&MarketPlace=US&ASIN=B000FMWTVG&ServiceVersion=20070822&ID=AsinImage&WS=1&Format=_SL110_&tag=predec-20" ></a><img src="//ir-na.amazon-adsystem.com/e/ir?t=predec-20&l=am2&o=1&a=B000FMWTVG" width="1" height="1" border="0" alt="Silicone Tubing" style="border:none !important; margin:0px !important;" >
+      <a href="https://www.amazon.com/gp/product/B000FMWTVG/ref=as_li_tl?ie=UTF8&camp=1789&creative=9325&creativeASIN=B000FMWTVG&linkCode=as2&tag=predec-20&linkId=ce02eab412901115d0c11f5539bcb7f9" target="\_blank"><img border="0" src="//ws-na.amazon-adsystem.com/widgets/q?_encoding=UTF8&MarketPlace=US&ASIN=B000FMWTVG&ServiceVersion=20070822&ID=AsinImage&WS=1&Format=_SL110_&tag=predec-20" alt="Silicone Tubing"></a><img src="//ir-na.amazon-adsystem.com/e/ir?t=predec-20&l=am2&o=1&a=B000FMWTVG" width="1" height="1" border="0" alt="Silicone Tubing" style="border:none !important; margin:0px !important;" >
     </td>
 
     <td>
@@ -176,7 +176,7 @@ As always here are the additions to our <a href="http://pretty-dece.com/Build-Yo
     </td>
 
     <td style="text-align: center;">
-      <a href="https://www.amazon.com/gp/product/B006ZNP8AS/ref=as_li_tl?ie=UTF8&camp=1789&creative=9325&creativeASIN=B006ZNP8AS&linkCode=as2&tag=predec-20&linkId=0f604e270b4ee6ca5fcb90de974615aa" target="\_blank"><img border="0" src="//ws-na.amazon-adsystem.com/widgets/q?_encoding=UTF8&MarketPlace=US&ASIN=B006ZNP8AS&ServiceVersion=20070822&ID=AsinImage&WS=1&Format=_SL110_&tag=predec-20" ></a><img src="//ir-na.amazon-adsystem.com/e/ir?t=predec-20&l=am2&o=1&a=B006ZNP8AS" width="1" height="1" border="0" alt="Sprinkler Converter with Two Barb Outlets" style="border:none !important; margin:0px !important;" >
+      <a href="https://www.amazon.com/gp/product/B006ZNP8AS/ref=as_li_tl?ie=UTF8&camp=1789&creative=9325&creativeASIN=B006ZNP8AS&linkCode=as2&tag=predec-20&linkId=0f604e270b4ee6ca5fcb90de974615aa" target="\_blank"><img border="0" src="//ws-na.amazon-adsystem.com/widgets/q?_encoding=UTF8&MarketPlace=US&ASIN=B006ZNP8AS&ServiceVersion=20070822&ID=AsinImage&WS=1&Format=_SL110_&tag=predec-20" alt="Sprinkler Converter with Two Barb Outlets"></a><img src="//ir-na.amazon-adsystem.com/e/ir?t=predec-20&l=am2&o=1&a=B006ZNP8AS" width="1" height="1" border="0" alt="Sprinkler Converter with Two Barb Outlets" style="border:none !important; margin:0px !important;" >
     </td>
 
     <td>
@@ -190,7 +190,7 @@ As always here are the additions to our <a href="http://pretty-dece.com/Build-Yo
     </td>
 
     <td style="text-align: center;">
-      <a href="https://www.amazon.com/gp/product/B000FJX5DU/ref=as_li_tl?ie=UTF8&camp=1789&creative=9325&creativeASIN=B000FJX5DU&linkCode=as2&tag=predec-20&linkId=6d93306ef54afb31e03e930550f2c245" target="\_blank"><img border="0" src="//ws-na.amazon-adsystem.com/widgets/q?_encoding=UTF8&MarketPlace=US&ASIN=B000FJX5DU&ServiceVersion=20070822&ID=AsinImage&WS=1&Format=_SL110_&tag=predec-20" ></a><img src="//ir-na.amazon-adsystem.com/e/ir?t=predec-20&l=am2&o=1&a=B000FJX5DU" width="1" height="1" border="0" alt="Drip Irrigation Tubing" style="border:none !important; margin:0px !important;" >
+      <a href="https://www.amazon.com/gp/product/B000FJX5DU/ref=as_li_tl?ie=UTF8&camp=1789&creative=9325&creativeASIN=B000FJX5DU&linkCode=as2&tag=predec-20&linkId=6d93306ef54afb31e03e930550f2c245" target="\_blank"><img border="0" src="//ws-na.amazon-adsystem.com/widgets/q?_encoding=UTF8&MarketPlace=US&ASIN=B000FJX5DU&ServiceVersion=20070822&ID=AsinImage&WS=1&Format=_SL110_&tag=predec-20" alt="Drip Irrigation Tubing"></a><img src="//ir-na.amazon-adsystem.com/e/ir?t=predec-20&l=am2&o=1&a=B000FJX5DU" width="1" height="1" border="0" alt="Drip Irrigation Tubing" style="border:none !important; margin:0px !important;" >
     </td>
 
     <td>
@@ -204,7 +204,7 @@ As always here are the additions to our <a href="http://pretty-dece.com/Build-Yo
     </td>
 
     <td style="text-align: center;">
-      <a href="https://www.amazon.com/gp/product/B000FJYTC6/ref=as_li_tl?ie=UTF8&camp=1789&creative=9325&creativeASIN=B000FJYTC6&linkCode=as2&tag=predec-20&linkId=aab149232281694e7c0f63e83cc6d570" target="\_blank"><img border="0" src="//ws-na.amazon-adsystem.com/widgets/q?_encoding=UTF8&MarketPlace=US&ASIN=B000FJYTC6&ServiceVersion=20070822&ID=AsinImage&WS=1&Format=_SL110_&tag=predec-20" ></a><img src="//ir-na.amazon-adsystem.com/e/ir?t=predec-20&l=am2&o=1&a=B000FJYTC6" width="1" height="1" border="0" alt="Drip Irrigation 1/4" Tubing Stakes" style="border:none !important; margin:0px !important;" >
+      <a href="https://www.amazon.com/gp/product/B000FJYTC6/ref=as_li_tl?ie=UTF8&camp=1789&creative=9325&creativeASIN=B000FJYTC6&linkCode=as2&tag=predec-20&linkId=aab149232281694e7c0f63e83cc6d570" target="\_blank"><img border="0" src="//ws-na.amazon-adsystem.com/widgets/q?_encoding=UTF8&MarketPlace=US&ASIN=B000FJYTC6&ServiceVersion=20070822&ID=AsinImage&WS=1&Format=_SL110_&tag=predec-20"  alt="Drip Irrigation Tubing Stakes"></a><img src="//ir-na.amazon-adsystem.com/e/ir?t=predec-20&l=am2&o=1&a=B000FJYTC6" width="1" height="1" border="0" alt="Drip Irrigation Tubing Stakes" style="border:none !important; margin:0px !important;" >
     </td>
 
     <td>
@@ -218,7 +218,7 @@ As always here are the additions to our <a href="http://pretty-dece.com/Build-Yo
     </td>
 
     <td style="text-align: center;">
-      <a href="https://www.amazon.com/gp/product/B00E0NG6W4/ref=as_li_tl?ie=UTF8&camp=1789&creative=9325&creativeASIN=B00E0NG6W4&linkCode=as2&tag=predec-20&linkId=9eb7a0f71fa19f28b7968c48c5b47648" target="\_blank"><img border="0" src="//ws-na.amazon-adsystem.com/widgets/q?_encoding=UTF8&MarketPlace=US&ASIN=B00E0NG6W4&ServiceVersion=20070822&ID=AsinImage&WS=1&Format=_SL110_&tag=predec-20" ></a><img src="//ir-na.amazon-adsystem.com/e/ir?t=predec-20&l=am2&o=1&a=B00E0NG6W4" width="1" height="1" border="0" alt="16 lb Box of River Rocks" style="border:none !important; margin:0px !important;" >
+      <a href="https://www.amazon.com/gp/product/B00E0NG6W4/ref=as_li_tl?ie=UTF8&camp=1789&creative=9325&creativeASIN=B00E0NG6W4&linkCode=as2&tag=predec-20&linkId=9eb7a0f71fa19f28b7968c48c5b47648" target="\_blank"><img border="0" src="//ws-na.amazon-adsystem.com/widgets/q?_encoding=UTF8&MarketPlace=US&ASIN=B00E0NG6W4&ServiceVersion=20070822&ID=AsinImage&WS=1&Format=_SL110_&tag=predec-20" alt="16 lb Box of River Rocks"></a><img src="//ir-na.amazon-adsystem.com/e/ir?t=predec-20&l=am2&o=1&a=B00E0NG6W4" width="1" height="1" border="0" alt="16 lb Box of River Rocks" style="border:none !important; margin:0px !important;" >
     </td>
 
     <td>
@@ -236,7 +236,7 @@ As always here are the additions to our <a href="http://pretty-dece.com/Build-Yo
     </td>
 
     <td style="text-align: center;">
-      <a href="https://www.amazon.com/gp/product/B00EXLRW5S/ref=as_li_tl?ie=UTF8&camp=1789&creative=9325&creativeASIN=B00EXLRW5S&linkCode=as2&tag=predec-20&linkId=96b138d6cff19f41bcdf1b1c4ed25cf5" target="\_blank"><img border="0" src="//ws-na.amazon-adsystem.com/widgets/q?_encoding=UTF8&MarketPlace=US&ASIN=B00EXLRW5S&ServiceVersion=20070822&ID=AsinImage&WS=1&Format=_SL110_&tag=predec-20" ></a><img src="//ir-na.amazon-adsystem.com/e/ir?t=predec-20&l=am2&o=1&a=B00EXLRW5S" width="1" height="1" border="0" alt="Heat Shrink Tubing" style="border:none !important; margin:0px !important;" >
+      <a href="https://www.amazon.com/gp/product/B00EXLRW5S/ref=as_li_tl?ie=UTF8&camp=1789&creative=9325&creativeASIN=B00EXLRW5S&linkCode=as2&tag=predec-20&linkId=96b138d6cff19f41bcdf1b1c4ed25cf5" target="\_blank"><img border="0" src="//ws-na.amazon-adsystem.com/widgets/q?_encoding=UTF8&MarketPlace=US&ASIN=B00EXLRW5S&ServiceVersion=20070822&ID=AsinImage&WS=1&Format=_SL110_&tag=predec-20" alt="Heat Shrink Tubing"></a><img src="//ir-na.amazon-adsystem.com/e/ir?t=predec-20&l=am2&o=1&a=B00EXLRW5S" width="1" height="1" border="0" alt="Heat Shrink Tubing" style="border:none !important; margin:0px !important;" >
     </td>
 
     <td>
@@ -250,7 +250,7 @@ As always here are the additions to our <a href="http://pretty-dece.com/Build-Yo
     </td>
 
     <td style="text-align: center;">
-      <a href="https://www.amazon.com/gp/product/B00GVMFV6O/ref=as_li_tl?ie=UTF8&camp=1789&creative=9325&creativeASIN=B00GVMFV6O&linkCode=as2&tag=predec-20&linkId=a1245645fa7e260d6c735d71fd44616a" target="\_blank"><img border="0" src="//ws-na.amazon-adsystem.com/widgets/q?_encoding=UTF8&MarketPlace=US&ASIN=B00GVMFV6O&ServiceVersion=20070822&ID=AsinImage&WS=1&Format=_SL110_&tag=predec-20" ></a><img src="//ir-na.amazon-adsystem.com/e/ir?t=predec-20&l=am2&o=1&a=B00GVMFV6O" width="1" height="1" border="0" alt="Mini Heat Gun" style="border:none !important; margin:0px !important;" >
+      <a href="https://www.amazon.com/gp/product/B00GVMFV6O/ref=as_li_tl?ie=UTF8&camp=1789&creative=9325&creativeASIN=B00GVMFV6O&linkCode=as2&tag=predec-20&linkId=a1245645fa7e260d6c735d71fd44616a" target="\_blank"><img border="0" src="//ws-na.amazon-adsystem.com/widgets/q?_encoding=UTF8&MarketPlace=US&ASIN=B00GVMFV6O&ServiceVersion=20070822&ID=AsinImage&WS=1&Format=_SL110_&tag=predec-20"  alt="Mini Heat Gun"></a><img src="//ir-na.amazon-adsystem.com/e/ir?t=predec-20&l=am2&o=1&a=B00GVMFV6O" width="1" height="1" border="0" alt="Mini Heat Gun" style="border:none !important; margin:0px !important;" >
     </td>
 
     <td>
@@ -264,7 +264,7 @@ As always here are the additions to our <a href="http://pretty-dece.com/Build-Yo
     </td>
 
     <td style="text-align: center;">
-      <a href="https://www.amazon.com/gp/product/B003E48ERU/ref=as_li_tl?ie=UTF8&camp=1789&creative=9325&creativeASIN=B003E48ERU&linkCode=as2&tag=predec-20&linkId=946833d449c596baf502ce2ce74c1cff" target="\_blank"><img border="0" src="//ws-na.amazon-adsystem.com/widgets/q?_encoding=UTF8&MarketPlace=US&ASIN=B003E48ERU&ServiceVersion=20070822&ID=AsinImage&WS=1&Format=_SL110_&tag=predec-20" ></a><img src="//ir-na.amazon-adsystem.com/e/ir?t=predec-20&l=am2&o=1&a=B003E48ERU" width="1" height="1" border="0" alt="Desoldering Wick" style="border:none !important; margin:0px !important;" >
+      <a href="https://www.amazon.com/gp/product/B003E48ERU/ref=as_li_tl?ie=UTF8&camp=1789&creative=9325&creativeASIN=B003E48ERU&linkCode=as2&tag=predec-20&linkId=946833d449c596baf502ce2ce74c1cff" target="\_blank"><img border="0" src="//ws-na.amazon-adsystem.com/widgets/q?_encoding=UTF8&MarketPlace=US&ASIN=B003E48ERU&ServiceVersion=20070822&ID=AsinImage&WS=1&Format=_SL110_&tag=predec-20" alt="Desoldering Wick" ></a><img src="//ir-na.amazon-adsystem.com/e/ir?t=predec-20&l=am2&o=1&a=B003E48ERU" width="1" height="1" border="0" alt="Desoldering Wick" style="border:none !important; margin:0px !important;" >
     </td>
 
     <td>
@@ -278,7 +278,7 @@ As always here are the additions to our <a href="http://pretty-dece.com/Build-Yo
     </td>
 
     <td style="text-align: center;">
-      <a href="https://www.amazon.com/gp/product/B008OC3VMU/ref=as_li_tl?ie=UTF8&camp=1789&creative=9325&creativeASIN=B008OC3VMU&linkCode=as2&tag=predec-20&linkId=4617fc8959d9cfd8a4a4b59fee36287f" target="\_blank"><img border="0" src="//ws-na.amazon-adsystem.com/widgets/q?_encoding=UTF8&MarketPlace=US&ASIN=B008OC3VMU&ServiceVersion=20070822&ID=AsinImage&WS=1&Format=_SL110_&tag=predec-20" ></a><img src="//ir-na.amazon-adsystem.com/e/ir?t=predec-20&l=am2&o=1&a=B008OC3VMU" width="1" height="1" border="0" alt="Rosin Soldering Flux Pen" style="border:none !important; margin:0px !important;" >
+      <a href="https://www.amazon.com/gp/product/B008OC3VMU/ref=as_li_tl?ie=UTF8&camp=1789&creative=9325&creativeASIN=B008OC3VMU&linkCode=as2&tag=predec-20&linkId=4617fc8959d9cfd8a4a4b59fee36287f" target="\_blank"><img border="0" src="//ws-na.amazon-adsystem.com/widgets/q?_encoding=UTF8&MarketPlace=US&ASIN=B008OC3VMU&ServiceVersion=20070822&ID=AsinImage&WS=1&Format=_SL110_&tag=predec-20" alt="Rosin Soldering Flux Pen"></a><img src="//ir-na.amazon-adsystem.com/e/ir?t=predec-20&l=am2&o=1&a=B008OC3VMU" width="1" height="1" border="0" alt="Rosin Soldering Flux Pen" style="border:none !important; margin:0px !important;" >
     </td>
 
     <td>

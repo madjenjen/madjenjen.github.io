@@ -7,7 +7,7 @@ This is the second installment of **Bonsai Watering for Slackers** where we'll c
 
 <!--more-->
 
-<center><img src="/images/Bonsai-Water/Part2/bonsai-water-slack-messages.PNG" alt="sample Slack messages"></img></center>
+<center><img src="/images/Bonsai-Water/Part2/bonsai-water-slack-messages.PNG" alt="sample Slack messages"></center>
 
 The full source code for what we'll cover today can be found at <a href="https://github.com/TheConnMan/Slack-Relay" target="\_blank">https://github.com/TheConnMan/Slack-Relay</a>.
 

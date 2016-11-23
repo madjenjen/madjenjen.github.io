@@ -11,7 +11,8 @@ Hi! We're JMad and TheConnMan--we're just two home-automation-enthusiast-wannabe
   <img class="circular headshot" src="/images/JMad.png" alt="JMad">
   <p><b>JMad</b> has a degree in Mechanical Engineering and a minor in Theatre Studies (spelled the fancy way). She enjoys tinkering with electronics and frying the occasional transistor. She also dabbles in amateur carpentry and graphic creation. She is the creator and upkeeper of the Pretty Dece blog.</p>
 </div>
-  <br />
+
+<br>
 
 <div class="about-us">
   <img class="circular headshot" src="/images/TheConnMan.png" alt="TheConnMan">

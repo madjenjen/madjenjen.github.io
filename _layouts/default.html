@@ -53,7 +53,10 @@
     <script>
       $(function() {
           $('.site-name').circleType({radius: 200});
-          initHighlight()
+          initHighlight();
+          $( window ).resize(function() {
+              $('.site-name').circleType({radius: 200});
+          })
       });
     </script>
   </body>

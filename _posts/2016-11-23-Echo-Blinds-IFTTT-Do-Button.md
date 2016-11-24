@@ -69,7 +69,7 @@ Then select "Make a web request." You should see a screen like this:
 
 These web requests are a powerful new way that IFTTT lets you make buttons that will basically let you do anything that can be sent over the internet in a web request. This is a super convenient feature for us since our Echo Blinds project is already operating through web requests. Check out <a href="http://pretty-dece.com/Echo-Blind-Openers-2/" target="\_blank">our earlier post</a> for a refresher on how it worked with the Amazon Echo. All we're doing now is replacing the Echo steps with the IFTTT Do Button to get the message into the Relay Server. The Arduino setup will see nothing different and will continue to poll the Relay Server until a new message arrives.
 
-<center><img src="/images/Echo-Blinds/IFTTT-Do/data-flow.PNG" alt="Data flow"></center>
+<center><img src="/images/Echo-Blinds/IFTTT-Do/data-flow.png" alt="Data flow"></center>
 
 For this first version, we're creating two buttons. One to "open blinds" and one to "close blinds". For the next iteration we can build a toggle switch that can use just one button.
 

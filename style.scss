@@ -352,6 +352,7 @@ nav {
 
   a {
     margin-right: 1.5em;
+    padding-bottom: .1em;
     color: $white;
     text-align: left;
     font-weight: bold;
@@ -359,9 +360,11 @@ nav {
     @include mobile {
       margin: 0 7px;
     }
-	&:hover {
-		color: $yellow;
-	}
+
+  	&:hover {
+      color: $white;
+      border-bottom: 5px solid $white;
+  	}
   }
 }
 

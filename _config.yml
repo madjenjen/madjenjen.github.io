@@ -53,8 +53,6 @@ baseurl: ""
 #
 # !! You don't need to change any of the configuration flags below !!
 #
-
-markdown:
 highlighter: rouge
 permalink: /:title/
 

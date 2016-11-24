@@ -323,10 +323,10 @@ code {
 }
 
 .site-description {
-  margin: 0;
+  margin: .8em 0 0 0;
   color: $white;
   font-size: 14px;
-  width: 200px;
+  width: 180px;
   text-align: right;
   float: right;
 
@@ -337,7 +337,7 @@ code {
 
 nav {
   float: left;
-  margin-top: 23px; // @TODO: Vertically middle align
+  margin-top: 1.5em;
   font-family: $pontanoSans;
   font-size: 18px;
   color: $white;
